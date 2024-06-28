@@ -1,0 +1,562 @@
+/* adjust | adj */
+.adj-c{
+    text-align: center;
+}
+.adj-l{
+    text-align: left;
+}
+.adj-r{
+    text-align: right;
+}
+.adj-j{
+    text-align: justify;
+}
+
+/* align | ali */
+.ali-c{
+    align-items: center;
+}
+.ali-e{
+    align-items: end;
+}
+.ali-s{
+    align-items: start;
+}
+
+/* bottom | bot */
+.bot-0{
+    bottom: 0;
+}
+.bot-1{
+    bottom: 1rem;
+}
+.bot-2{
+    bottom: 2rem;
+}
+.bot-3{
+    bottom: 3rem;
+}
+.bot-4{
+    bottom: 4rem;
+}
+.bot-5{
+    bottom: 5rem;
+}
+.bot-6{
+    bottom: 6rem;
+}
+.bot-7{
+    bottom: 7rem;
+}
+.bot-8{
+    bottom: 8rem;
+}
+.bot-9{
+    bottom: 9rem;
+}
+.bot-10{
+    bottom: 10rem;
+}
+.bot-20{
+    bottom: 20rem;
+}
+.bot-30{
+    bottom: 30rem;
+}
+.bot-40{
+    bottom: 40rem;
+}
+.bot-50{
+    bottom: 50rem;
+}
+.bot-60{
+    bottom: 60rem;
+}
+.bot-70{
+    bottom: 70rem;
+}
+.bot-80{
+    bottom: 80rem;
+}
+.bot-n-1{
+    bottom: -1rem;
+}
+.bot-n-2{
+    bottom: -2rem;
+}
+.bot-n-3{
+    bottom: -3rem;
+}
+.bot-n-4{
+    bottom: -4rem;
+}
+.bot-n-5{
+    bottom: -5rem;
+}
+.bot-n-6{
+    bottom: -6rem;
+}
+.bot-n-7{
+    bottom: -7rem;
+}
+.bot-n-8{
+    bottom: -8rem;
+}
+.bot-n-9{
+    bottom: -9rem;
+}
+.bot-n-10{
+    bottom: -10rem;
+}
+.bot-n-20{
+    bottom: -20rem;
+}
+.bot-n-30{
+    bottom: -30rem;
+}
+.bot-n-40{
+    bottom: -40rem;
+}
+.bot-n-50{
+    bottom: -50rem;
+}
+.bot-n-60{
+    bottom: -60rem;
+}
+.bot-n-70{
+    bottom: -70rem;
+}
+.bot-n-80{
+    bottom: -80rem;
+}
+
+/* direction | dir */
+.dir-r-r{
+    flex-direction: row-reverse;
+}
+.dir-c{
+    flex-direction: column;
+}
+.dir-c-r{
+    flex-direction: column-reverse;
+}
+
+/* display | dis */
+.dis-i{
+    display: inline;
+}
+.dis-i-b{
+    display: inline-block;
+}
+.dis-b{
+    display: block;
+}
+.dis-f{
+    display: flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+.dis-n{
+    display: none;
+}
+
+/* gap | gap */
+.gap-1{
+    gap: 1rem;
+}
+.gap-2{
+    gap: 2rem;
+}
+.gap-3{
+    gap: 3rem;
+}
+.gap-4{
+    gap: 4rem;
+}
+.gap-5{
+    gap: 5rem;
+}
+.gap-6{
+    gap: 6rem;
+}
+.gap-7{
+    gap: 7rem;
+}
+.gap-8{
+    gap: 8rem;
+}
+.gap-9{
+    gap: 9rem;
+}
+.gap-10{
+    gap: 10rem;
+}
+
+/* grow | gro */
+.gro-1{
+    flex-grow: 1;
+}
+.gro-2{
+    flex-grow: 2;
+}
+.gro-3{
+    flex-grow: 3;
+}
+.gro-4{
+    flex-grow: 4;
+}
+
+/* justify | jus */
+.jus-s{
+    justify-content: start;
+}
+.jus-s-a{
+    justify-content: space-around;
+}
+.jus-s-b{
+    justify-content: space-between;
+}
+.jus-s-e{
+    justify-content: space-evenly;
+}
+.jus-c{
+    justify-content: center;
+}
+.jus-e{
+    justify-content: end;
+}
+
+/* left | lef */
+.lef-0{
+    left: 0;
+}
+.lef-1{
+    left: 1rem;
+}
+.lef-2{
+    left: 2rem;
+}
+.lef-3{
+    left: 3rem;
+}
+.lef-4{
+    left: 4rem;
+}
+.lef-5{
+    left: 5rem;
+}
+.lef-6{
+    left: 6rem;
+}
+.lef-7{
+    left: 7rem;
+}
+.lef-8{
+    left: 8rem;
+}
+.lef-9{
+    left: 9rem;
+}
+.lef-10{
+    left: 10rem;
+}
+.lef-20{
+    left: 20rem;
+}
+.lef-30{
+    left: 30rem;
+}
+.lef-40{
+    left: 40rem;
+}
+.lef-50{
+    left: 50rem;
+}
+.lef-60{
+    left: 60rem;
+}
+.lef-70{
+    left: 70rem;
+}
+.lef-80{
+    left: 80rem;
+}
+.lef-n-1{
+    left: -1rem;
+}
+.lef-n-2{
+    left: -2rem;
+}
+.lef-n-3{
+    left: -3rem;
+}
+.lef-n-4{
+    left: -4rem;
+}
+.lef-n-5{
+    left: -5rem;
+}
+.lef-n-6{
+    left: -6rem;
+}
+.lef-n-7{
+    left: -7rem;
+}
+.lef-n-8{
+    left: -8rem;
+}
+.lef-n-9{
+    left: -9rem;
+}
+.lef-n-10{
+    left: -10rem;
+}
+.lef-n-20{
+    left: -20rem;
+}
+.lef-n-30{
+    left: -30rem;
+}
+.lef-n-40{
+    left: -40rem;
+}
+.lef-n-50{
+    left: -50rem;
+}
+.lef-n-60{
+    left: -60rem;
+}
+.lef-n-70{
+    left: -70rem;
+}
+.lef-n-80{
+    left: -80rem;
+}
+
+/* position | pos */
+.pos-a{
+    position: absolute;
+}
+.pos-f{
+    position: fixed;
+}
+.pos-r{
+    position: relative;
+}
+.pos-s{
+    position: static;
+}
+
+/* right | rig */
+.rig-0{
+    right: 0;
+}
+.rig-1{
+    right: 1rem;
+}
+.rig-2{
+    right: 2rem;
+}
+.rig-3{
+    right: 3rem;
+}
+.rig-4{
+    right: 4rem;
+}
+.rig-5{
+    right: 5rem;
+}
+.rig-6{
+    right: 6rem;
+}
+.rig-7{
+    right: 7rem;
+}
+.rig-8{
+    right: 8rem;
+}
+.rig-9{
+    right: 9rem;
+}
+.rig-10{
+    right: 10rem;
+}
+.rig-20{
+    right: 20rem;
+}
+.rig-30{
+    right: 30rem;
+}
+.rig-40{
+    right: 40rem;
+}
+.rig-50{
+    right: 50rem;
+}
+.rig-60{
+    right: 60rem;
+}
+.rig-70{
+    right: 70rem;
+}
+.rig-80{
+    right: 80rem;
+}
+.rig-n-1{
+    right: -1rem;
+}
+.rig-n-2{
+    right: -2rem;
+}
+.rig-n-3{
+    right: -3rem;
+}
+.rig-n-4{
+    right: -4rem;
+}
+.rig-n-5{
+    right: -5rem;
+}
+.rig-n-6{
+    right: -6rem;
+}
+.rig-n-7{
+    right: -7rem;
+}
+.rig-n-8{
+    right: -8rem;
+}
+.rig-n-9{
+    right: -9rem;
+}
+.rig-n-10{
+    right: -10rem;
+}
+.rig-n-20{
+    right: -20rem;
+}
+.rig-n-30{
+    right: -30rem;
+}
+.rig-n-40{
+    right: -40rem;
+}
+.rig-n-50{
+    right: -50rem;
+}
+.rig-n-60{
+    right: -60rem;
+}
+.rig-n-70{
+    right: -70rem;
+}
+.rig-n-80{
+    right: -80rem;
+}
+
+/* top | top */
+.top-0{
+    top: 0;
+}
+.top-1{
+    top: 1rem;
+}
+.top-2{
+    top: 2rem;
+}
+.top-3{
+    top: 3rem;
+}
+.top-4{
+    top: 4rem;
+}
+.top-5{
+    top: 5rem;
+}
+.top-6{
+    top: 6rem;
+}
+.top-7{
+    top: 7rem;
+}
+.top-8{
+    top: 8rem;
+}
+.top-9{
+    top: 9rem;
+}
+.top-10{
+    top: 10rem;
+}
+.top-20{
+    top: 20rem;
+}
+.top-30{
+    top: 30rem;
+}
+.top-40{
+    top: 40rem;
+}
+.top-50{
+    top: 50rem;
+}
+.top-60{
+    top: 60rem;
+}
+.top-70{
+    top: 70rem;
+}
+.top-80{
+    top: 80rem;
+}
+.top-n-1{
+    top: -1rem;
+}
+.top-n-2{
+    top: -2rem;
+}
+.top-n-3{
+    top: -3rem;
+}
+.top-n-4{
+    top: -4rem;
+}
+.top-n-5{
+    top: -5rem;
+}
+.top-n-6{
+    top: -6rem;
+}
+.top-n-7{
+    top: -7rem;
+}
+.top-n-8{
+    top: -8rem;
+}
+.top-n-9{
+    top: -9rem;
+}
+.top-n-10{
+    top: -10rem;
+}
+.top-n-20{
+    top: -20rem;
+}
+.top-n-30{
+    top: -30rem;
+}
+.top-n-40{
+    top: -40rem;
+}
+.top-n-50{
+    top: -50rem;
+}
+.top-n-60{
+    top: -60rem;
+}
+.top-n-70{
+    top: -70rem;
+}
+.top-n-80{
+    top: -80rem;
+}
