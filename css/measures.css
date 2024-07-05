@@ -54,6 +54,100 @@
     height: auto;
 }
 
+/* minimum height | minhei */
+.minhei-10{
+    min-height: 10rem;
+}
+.minhei-20{
+    min-height: 20rem;
+}
+.minhei-30{
+    min-height: 30rem;
+}
+.minhei-40{
+    min-height: 40rem;
+}
+.minhei-50{
+    min-height: 50rem;
+}
+.minhei-60{
+    min-height: 60rem;
+}
+.minhei-70{
+    min-height: 70rem;
+}
+.minhei-80{
+    min-height: 80rem;
+}
+.minhei-136-6{
+    min-height: 136.6rem;
+}
+.minhei-160{
+    min-height: 160rem;
+}
+
+/* minimum viewport | minvie */
+.minvie-h-10{
+    min-height: 10vh;
+}
+.minvie-h-20{
+    min-height: 20vh;
+}
+.minvie-h-30{
+    min-height: 30vh;
+}
+.minvie-h-40{
+    min-height: 40vh;
+}
+.minvie-h-50{
+    min-height: 50vh;
+}
+.minvie-h-60{
+    min-height: 60vh;
+}
+.minvie-h-70{
+    min-height: 70vh;
+}
+.minvie-h-80{
+    min-height: 80vh;
+}
+.minvie-h-90{
+    min-height: 90vh;
+}
+.minvie-h-100{
+    min-height: 100vh;
+}
+.minvie-w-10{
+    min-width: 10vw;
+}
+.minvie-w-20{
+    min-width: 20vw;
+}
+.minvie-w-30{
+    min-width: 30vw;
+}
+.minvie-w-40{
+    min-width: 40vw;
+}
+.minvie-w-50{
+    min-width: 50vw;
+}
+.minvie-w-60{
+    min-width: 60vw;
+}
+.minvie-w-70{
+    min-width: 70vw;
+}
+.minvie-w-80{
+    min-width: 80vw;
+}
+.minvie-w-90{
+    min-width: 90vw;
+}
+.minvie-w-100{
+    min-width: 100vw;
+}
+
 /* maximum height | maxhei */
 .maxhei-10{
     max-height: 10rem;
@@ -87,11 +181,97 @@
 }
 
 /* maximum viewport | maxvie */
-.maxvie-h{
+.maxvie-h-10{
+    max-height: 10vh;
+}
+.maxvie-h-20{
+    max-height: 20vh;
+}
+.maxvie-h-30{
+    max-height: 30vh;
+}
+.maxvie-h-40{
+    max-height: 40vh;
+}
+.maxvie-h-50{
+    max-height: 50vh;
+}
+.maxvie-h-60{
+    max-height: 60vh;
+}
+.maxvie-h-70{
+    max-height: 70vh;
+}
+.maxvie-h-80{
+    max-height: 80vh;
+}
+.maxvie-h-90{
+    max-height: 90vh;
+}
+.maxvie-h-100{
     max-height: 100vh;
 }
-.maxvie-w{
+.maxvie-w-10{
+    max-width: 10vw;
+}
+.maxvie-w-20{
+    max-width: 20vw;
+}
+.maxvie-w-30{
+    max-width: 30vw;
+}
+.maxvie-w-40{
+    max-width: 40vw;
+}
+.maxvie-w-50{
+    max-width: 50vw;
+}
+.maxvie-w-60{
+    max-width: 60vw;
+}
+.maxvie-w-70{
+    max-width: 70vw;
+}
+.maxvie-w-80{
+    max-width: 80vw;
+}
+.maxvie-w-90{
+    max-width: 90vw;
+}
+.maxvie-w-100{
     max-width: 100vw;
+}
+
+/* percentage height | perheight */
+.perhei-10{
+    height: 10%;
+}
+.perhei-20{
+    height: 20%;
+}
+.perhei-25{
+    height: 25%;
+}
+.perhei-30{
+    height: 30%;
+}
+.perhei-40{
+    height: 40%;
+}
+.perhei-50{
+    height: 50%;
+}
+.perhei-60{
+    height: 60%;
+}
+.perhei-70{
+    height: 70%;
+}
+.perhei-75{
+    height: 75%;
+}
+.perhei-100{
+    height: 100%;
 }
 
 /* percentage width | perwidth */
