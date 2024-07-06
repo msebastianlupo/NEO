@@ -936,6 +936,9 @@
     .s1pos-f{
         position: fixed;
     }
+    .s1pos-g{
+        position: sticky;
+    }
     .s1pos-r{
         position: relative;
     }
@@ -2089,6 +2092,9 @@
     }
     .s2pos-f{
         position: fixed;
+    }
+    .s2pos-g{
+        position: sticky;
     }
     .s2pos-r{
         position: relative;
@@ -3244,6 +3250,9 @@
     .s3pos-f{
         position: fixed;
     }
+    .s3pos-g{
+        position: sticky;
+    }
     .s3pos-r{
         position: relative;
     }
@@ -4398,6 +4407,9 @@
     .s4pos-f{
         position: fixed;
     }
+    .s4pos-g{
+        position: sticky;
+    }
     .s4pos-r{
         position: relative;
     }
@@ -5551,6 +5563,9 @@
     }
     .s5pos-f{
         position: fixed;
+    }
+    .s5pos-g{
+        position: sticky;
     }
     .s5pos-r{
         position: relative;
