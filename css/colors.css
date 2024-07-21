@@ -390,7 +390,7 @@
     border-bottom-color: hsl(150 100 95);
 }
 .bcb-white{
-    border-bottom-color: hsl(360 100 100);
+    border-bottom-color: hsl(0 0 100);
 }
 .bcb-yellow{
     border-bottom-color: hsl(60 100 50);
@@ -815,7 +815,7 @@
     border-left-color: hsl(150 100 95);
 }
 .bcl-white{
-    border-left-color: hsl(360 100 100);
+    border-left-color: hsl(0 0 100);
 }
 .bcl-yellow{
     border-left-color: hsl(60 100 50);
@@ -1240,7 +1240,7 @@
     border-right-color: hsl(150 100 95);
 }
 .bcr-white{
-    border-right-color: hsl(360 100 100);
+    border-right-color: hsl(0 0 100);
 }
 .bcr-yellow{
     border-right-color: hsl(60 100 50);
@@ -1665,7 +1665,7 @@
     border-top-color: hsl(150 100 95);
 }
 .bct-white{
-    border-top-color: hsl(360 100 100);
+    border-top-color: hsl(0 0 100);
 }
 .bct-yellow{
     border-top-color: hsl(60 100 50);
@@ -2090,7 +2090,7 @@
     background-color: hsl(150 100 95);
 }
 .bdc-white{
-    background-color: hsl(360 100 100);
+    background-color: hsl(0 0 100);
 }
 .bdc-yellow{
     background-color: hsl(60 100 50);
@@ -2515,7 +2515,7 @@
     border-color: hsl(150 100 95);
 }
 .brc-white{
-    border-color: hsl(360 100 100);
+    border-color: hsl(0 0 100);
 }
 .brc-yellow{
     border-color: hsl(60 100 50);
@@ -2940,7 +2940,7 @@
     color: hsl(150 100 95);
 }
 .col-white{
-    color: hsl(360 100 100);
+    color: hsl(0 0 100);
 }
 .col-yellow{
     color: hsl(60 100 50);
@@ -3365,7 +3365,7 @@
     border-bottom-color: hsl(150 100 95);
 }
 .hovbcb-white:hover{
-    border-bottom-color: hsl(360 100 100);
+    border-bottom-color: hsl(0 0 100);
 }
 .hovbcb-yellow:hover{
     border-bottom-color: hsl(60 100 50);
@@ -3790,7 +3790,7 @@
     border-left-color: hsl(150 100 95);
 }
 .hovbcl-white:hover{
-    border-left-color: hsl(360 100 100);
+    border-left-color: hsl(0 0 100);
 }
 .hovbcl-yellow:hover{
     border-left-color: hsl(60 100 50);
@@ -4215,7 +4215,7 @@
     border-right-color: hsl(150 100 95);
 }
 .hovbcr-white:hover{
-    border-right-color: hsl(360 100 100);
+    border-right-color: hsl(0 0 100);
 }
 .hovbcr-yellow:hover{
     border-right-color: hsl(60 100 50);
@@ -4640,7 +4640,7 @@
     border-top-color: hsl(150 100 95);
 }
 .hovbct-white:hover{
-    border-top-color: hsl(360 100 100);
+    border-top-color: hsl(0 0 100);
 }
 .hovbct-yellow:hover{
     border-top-color: hsl(60 100 50);
@@ -5065,7 +5065,7 @@
     background-color: hsl(150 100 95);
 }
 .hovbdc-white:hover{
-    background-color: hsl(360 100 100);
+    background-color: hsl(0 0 100);
 }
 .hovbdc-yellow:hover{
     background-color: hsl(60 100 50);
@@ -5490,7 +5490,7 @@
     border-color: hsl(150 100 95);
 }
 .hovbrc-white:hover{
-    border-color: hsl(360 100 100);
+    border-color: hsl(0 0 100);
 }
 .hovbrc-yellow:hover{
     border-color: hsl(60 100 50);
@@ -5915,7 +5915,7 @@
     color: hsl(150 100 95);
 }
 .hovcol-white:hover{
-    color: hsl(360 100 100);
+    color: hsl(0 0 100);
 }
 .hovcol-yellow:hover{
     color: hsl(60 100 50);
