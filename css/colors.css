@@ -1,3 +1,852 @@
+/* active neumorphism | actneu */
+.actneu-black:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 0), -1rem -1rem 2rem hsl(0 0 5);
+}
+.actneu-blue:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 45), -1rem -1rem 2rem hsl(240 100 55);
+}
+.actneu-blue-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 50), -1rem -1rem 2rem hsl(240 100 60);
+}
+.actneu-blue-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 55), -1rem -1rem 2rem hsl(240 100 65);
+}
+.actneu-blue-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 60), -1rem -1rem 2rem hsl(240 100 70);
+}
+.actneu-blue-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 65), -1rem -1rem 2rem hsl(240 100 75);
+}
+.actneu-blue-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 70), -1rem -1rem 2rem hsl(240 100 80);
+}
+.actneu-blue-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 75), -1rem -1rem 2rem hsl(240 100 85);
+}
+.actneu-blue-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 80), -1rem -1rem 2rem hsl(240 100 90);
+}
+.actneu-blue-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 85), -1rem -1rem 2rem hsl(240 100 95);
+}
+.actneu-blue-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 90), -1rem -1rem 2rem hsl(240 100 100);
+}
+.actneu-cyan:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 45), -1rem -1rem 2rem hsl(180 100 55);
+}
+.actneu-cyan-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 50), -1rem -1rem 2rem hsl(180 100 60);
+}
+.actneu-cyan-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 55), -1rem -1rem 2rem hsl(180 100 65);
+}
+.actneu-cyan-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 60), -1rem -1rem 2rem hsl(180 100 70);
+}
+.actneu-cyan-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 65), -1rem -1rem 2rem hsl(180 100 75);
+}
+.actneu-cyan-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 70), -1rem -1rem 2rem hsl(180 100 80);
+}
+.actneu-cyan-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 75), -1rem -1rem 2rem hsl(180 100 85);
+}
+.actneu-cyan-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 80), -1rem -1rem 2rem hsl(180 100 90);
+}
+.actneu-cyan-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 85), -1rem -1rem 2rem hsl(180 100 95);
+}
+.actneu-cyan-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 90), -1rem -1rem 2rem hsl(180 100 100);
+}
+.actneu-fuchsia:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 45), -1rem -1rem 2rem hsl(300 100 55);
+}
+.actneu-fuchsia-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 50), -1rem -1rem 2rem hsl(300 100 60);
+}
+.actneu-fuchsia-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 55), -1rem -1rem 2rem hsl(300 100 65);
+}
+.actneu-fuchsia-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 60), -1rem -1rem 2rem hsl(300 100 70);
+}
+.actneu-fuchsia-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 65), -1rem -1rem 2rem hsl(300 100 75);
+}
+.actneu-fuchsia-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 70), -1rem -1rem 2rem hsl(300 100 80);
+}
+.actneu-fuchsia-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 75), -1rem -1rem 2rem hsl(300 100 85);
+}
+.actneu-fuchsia-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 80), -1rem -1rem 2rem hsl(300 100 90);
+}
+.actneu-fuchsia-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 85), -1rem -1rem 2rem hsl(300 100 95);
+}
+.actneu-fuchsia-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 90), -1rem -1rem 2rem hsl(300 100 100);
+}
+.actneu-green:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 45), -1rem -1rem 2rem hsl(120 100 55);
+}
+.actneu-green-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 50), -1rem -1rem 2rem hsl(120 100 60);
+}
+.actneu-green-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 55), -1rem -1rem 2rem hsl(120 100 65);
+}
+.actneu-green-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 60), -1rem -1rem 2rem hsl(120 100 70);
+}
+.actneu-green-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 65), -1rem -1rem 2rem hsl(120 100 75);
+}
+.actneu-green-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 70), -1rem -1rem 2rem hsl(120 100 80);
+}
+.actneu-green-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 75), -1rem -1rem 2rem hsl(120 100 85);
+}
+.actneu-green-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 80), -1rem -1rem 2rem hsl(120 100 90);
+}
+.actneu-green-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 85), -1rem -1rem 2rem hsl(120 100 95);
+}
+.actneu-green-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 90), -1rem -1rem 2rem hsl(120 100 100);
+}
+.actneu-gray:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 0), -1rem -1rem 2rem hsl(0 0 10);
+}
+.actneu-gray-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 5), -1rem -1rem 2rem hsl(0 0 15);
+}
+.actneu-gray-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 10), -1rem -1rem 2rem hsl(0 0 20);
+}
+.actneu-gray-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 15), -1rem -1rem 2rem hsl(0 0 25);
+}
+.actneu-gray-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 20), -1rem -1rem 2rem hsl(0 0 30);
+}
+.actneu-gray-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 25), -1rem -1rem 2rem hsl(0 0 35);
+}
+.actneu-gray-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 30), -1rem -1rem 2rem hsl(0 0 40);
+}
+.actneu-gray-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 35), -1rem -1rem 2rem hsl(0 0 45);
+}
+.actneu-gray-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 40), -1rem -1rem 2rem hsl(0 0 50);
+}
+.actneu-gray-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 45), -1rem -1rem 2rem hsl(0 0 55);
+}
+.actneu-gray-11:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 50), -1rem -1rem 2rem hsl(0 0 60);
+}
+.actneu-gray-12:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 55), -1rem -1rem 2rem hsl(0 0 65);
+}
+.actneu-gray-13:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 60), -1rem -1rem 2rem hsl(0 0 70);
+}
+.actneu-gray-14:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 65), -1rem -1rem 2rem hsl(0 0 75);
+}
+.actneu-gray-15:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 70), -1rem -1rem 2rem hsl(0 0 80);
+}
+.actneu-gray-16:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 75), -1rem -1rem 2rem hsl(0 0 85);
+}
+.actneu-gray-17:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 80), -1rem -1rem 2rem hsl(0 0 90);
+}
+.actneu-gray-18:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 85), -1rem -1rem 2rem hsl(0 0 95);
+}
+.actneu-gray-19:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 90), -1rem -1rem 2rem hsl(0 0 100);
+}
+.actneu-lime:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 45), -1rem -1rem 2rem hsl(90 100 55);
+}
+.actneu-lime-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 50), -1rem -1rem 2rem hsl(90 100 60);
+}
+.actneu-lime-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 55), -1rem -1rem 2rem hsl(90 100 65);
+}
+.actneu-lime-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 60), -1rem -1rem 2rem hsl(90 100 70);
+}
+.actneu-lime-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 65), -1rem -1rem 2rem hsl(90 100 75);
+}
+.actneu-lime-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 70), -1rem -1rem 2rem hsl(90 100 80);
+}
+.actneu-lime-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 75), -1rem -1rem 2rem hsl(90 100 85);
+}
+.actneu-lime-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 80), -1rem -1rem 2rem hsl(90 100 90);
+}
+.actneu-lime-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 85), -1rem -1rem 2rem hsl(90 100 95);
+}
+.actneu-lime-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 90), -1rem -1rem 2rem hsl(90 100 100);
+}
+.actneu-magenta:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 45), -1rem -1rem 2rem hsl(330 100 55);
+}
+.actneu-magenta-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 50), -1rem -1rem 2rem hsl(330 100 60);
+}
+.actneu-magenta-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 55), -1rem -1rem 2rem hsl(330 100 65);
+}
+.actneu-magenta-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 60), -1rem -1rem 2rem hsl(330 100 70);
+}
+.actneu-magenta-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 65), -1rem -1rem 2rem hsl(330 100 75);
+}
+.actneu-magenta-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 70), -1rem -1rem 2rem hsl(330 100 80);
+}
+.actneu-magenta-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 75), -1rem -1rem 2rem hsl(330 100 85);
+}
+.actneu-magenta-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 80), -1rem -1rem 2rem hsl(330 100 90);
+}
+.actneu-magenta-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 85), -1rem -1rem 2rem hsl(330 100 95);
+}
+.actneu-magenta-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 90), -1rem -1rem 2rem hsl(330 100 100);
+}
+.actneu-orange:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 45), -1rem -1rem 2rem hsl(30 100 55);
+}
+.actneu-orange-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 50), -1rem -1rem 2rem hsl(30 100 60);
+}
+.actneu-orange-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 55), -1rem -1rem 2rem hsl(30 100 65);
+}
+.actneu-orange-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 60), -1rem -1rem 2rem hsl(30 100 70);
+}
+.actneu-orange-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 65), -1rem -1rem 2rem hsl(30 100 75);
+}
+.actneu-orange-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 70), -1rem -1rem 2rem hsl(30 100 80);
+}
+.actneu-orange-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 75), -1rem -1rem 2rem hsl(30 100 85);
+}
+.actneu-orange-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 80), -1rem -1rem 2rem hsl(30 100 90);
+}
+.actneu-orange-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 85), -1rem -1rem 2rem hsl(30 100 95);
+}
+.actneu-orange-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 90), -1rem -1rem 2rem hsl(30 100 100);
+}
+.actneu-purple:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 45), -1rem -1rem 2rem hsl(270 100 55);
+}
+.actneu-purple-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 50), -1rem -1rem 2rem hsl(270 100 60);
+}
+.actneu-purple-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 55), -1rem -1rem 2rem hsl(270 100 65);
+}
+.actneu-purple-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 60), -1rem -1rem 2rem hsl(270 100 70);
+}
+.actneu-purple-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 65), -1rem -1rem 2rem hsl(270 100 75);
+}
+.actneu-purple-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 70), -1rem -1rem 2rem hsl(270 100 80);
+}
+.actneu-purple-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 75), -1rem -1rem 2rem hsl(270 100 85);
+}
+.actneu-purple-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 80), -1rem -1rem 2rem hsl(270 100 90);
+}
+.actneu-purple-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 85), -1rem -1rem 2rem hsl(270 100 95);
+}
+.actneu-purple-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 90), -1rem -1rem 2rem hsl(270 100 100);
+}
+.actneu-red:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 45), -1rem -1rem 2rem hsl(0 100 55);
+}
+.actneu-red-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 50), -1rem -1rem 2rem hsl(0 100 60);
+}
+.actneu-red-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 55), -1rem -1rem 2rem hsl(0 100 65);
+}
+.actneu-red-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 60), -1rem -1rem 2rem hsl(0 100 70);
+}
+.actneu-red-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 65), -1rem -1rem 2rem hsl(0 100 75);
+}
+.actneu-red-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 70), -1rem -1rem 2rem hsl(0 100 80);
+}
+.actneu-red-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 75), -1rem -1rem 2rem hsl(0 100 85);
+}
+.actneu-red-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 80), -1rem -1rem 2rem hsl(0 100 90);
+}
+.actneu-red-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 85), -1rem -1rem 2rem hsl(0 100 95);
+}
+.actneu-red-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 90), -1rem -1rem 2rem hsl(0 100 100);
+}
+.actneu-sky:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 45), -1rem -1rem 2rem hsl(210 100 55);
+}
+.actneu-sky-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 50), -1rem -1rem 2rem hsl(210 100 60);
+}
+.actneu-sky-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 55), -1rem -1rem 2rem hsl(210 100 65);
+}
+.actneu-sky-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 60), -1rem -1rem 2rem hsl(210 100 70);
+}
+.actneu-sky-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 65), -1rem -1rem 2rem hsl(210 100 75);
+}
+.actneu-sky-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 70), -1rem -1rem 2rem hsl(210 100 80);
+}
+.actneu-sky-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 75), -1rem -1rem 2rem hsl(210 100 85);
+}
+.actneu-sky-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 80), -1rem -1rem 2rem hsl(210 100 90);
+}
+.actneu-sky-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 85), -1rem -1rem 2rem hsl(210 100 95);
+}
+.actneu-sky-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 90), -1rem -1rem 2rem hsl(210 100 100);
+}
+.actneu-springgreen:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 45), -1rem -1rem 2rem hsl(150 100 55);
+}
+.actneu-springgreen-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 50), -1rem -1rem 2rem hsl(150 100 60);
+}
+.actneu-springgreen-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 55), -1rem -1rem 2rem hsl(150 100 65);
+}
+.actneu-springgreen-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 60), -1rem -1rem 2rem hsl(150 100 70);
+}
+.actneu-springgreen-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 65), -1rem -1rem 2rem hsl(150 100 75);
+}
+.actneu-springgreen-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 70), -1rem -1rem 2rem hsl(150 100 80);
+}
+.actneu-springgreen-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 75), -1rem -1rem 2rem hsl(150 100 85);
+}
+.actneu-springgreen-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 80), -1rem -1rem 2rem hsl(150 100 90);
+}
+.actneu-springgreen-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 85), -1rem -1rem 2rem hsl(150 100 95);
+}
+.actneu-springgreen-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 90), -1rem -1rem 2rem hsl(150 100 100);
+}
+.actneu-white:active{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 95), -1rem -1rem 2rem hsl(0 0 100);
+}
+.actneu-yellow:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 45), -1rem -1rem 2rem hsl(60 100 55);
+}
+.actneu-yellow-2:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 50), -1rem -1rem 2rem hsl(60 100 60);
+}
+.actneu-yellow-3:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 55), -1rem -1rem 2rem hsl(60 100 65);
+}
+.actneu-yellow-4:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 60), -1rem -1rem 2rem hsl(60 100 70);
+}
+.actneu-yellow-5:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 65), -1rem -1rem 2rem hsl(60 100 75);
+}
+.actneu-yellow-6:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 70), -1rem -1rem 2rem hsl(60 100 80);
+}
+.actneu-yellow-7:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 75), -1rem -1rem 2rem hsl(60 100 85);
+}
+.actneu-yellow-8:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 80), -1rem -1rem 2rem hsl(60 100 90);
+}
+.actneu-yellow-9:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 85), -1rem -1rem 2rem hsl(60 100 95);
+}
+.actneu-yellow-10:active{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 90), -1rem -1rem 2rem hsl(60 100 100);
+}
+.actneu-i-black:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 0), inset -1rem -1rem 2rem hsl(0 0 5);
+}
+.actneu-i-blue:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 45), inset -1rem -1rem 2rem hsl(240 100 55);
+}
+.actneu-i-blue-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 50), inset -1rem -1rem 2rem hsl(240 100 60);
+}
+.actneu-i-blue-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 55), inset -1rem -1rem 2rem hsl(240 100 65);
+}
+.actneu-i-blue-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 60), inset -1rem -1rem 2rem hsl(240 100 70);
+}
+.actneu-i-blue-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 65), inset -1rem -1rem 2rem hsl(240 100 75);
+}
+.actneu-i-blue-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 70), inset -1rem -1rem 2rem hsl(240 100 80);
+}
+.actneu-i-blue-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 75), inset -1rem -1rem 2rem hsl(240 100 85);
+}
+.actneu-i-blue-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 80), inset -1rem -1rem 2rem hsl(240 100 90);
+}
+.actneu-i-blue-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 85), inset -1rem -1rem 2rem hsl(240 100 95);
+}
+.actneu-i-blue-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 90), inset -1rem -1rem 2rem hsl(240 100 100);
+}
+.actneu-i-cyan:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 45), inset -1rem -1rem 2rem hsl(180 100 55);
+}
+.actneu-i-cyan-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 50), inset -1rem -1rem 2rem hsl(180 100 60);
+}
+.actneu-i-cyan-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 55), inset -1rem -1rem 2rem hsl(180 100 65);
+}
+.actneu-i-cyan-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 60), inset -1rem -1rem 2rem hsl(180 100 70);
+}
+.actneu-i-cyan-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 65), inset -1rem -1rem 2rem hsl(180 100 75);
+}
+.actneu-i-cyan-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 70), inset -1rem -1rem 2rem hsl(180 100 80);
+}
+.actneu-i-cyan-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 75), inset -1rem -1rem 2rem hsl(180 100 85);
+}
+.actneu-i-cyan-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 80), inset -1rem -1rem 2rem hsl(180 100 90);
+}
+.actneu-i-cyan-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 85), inset -1rem -1rem 2rem hsl(180 100 95);
+}
+.actneu-i-cyan-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 90), inset -1rem -1rem 2rem hsl(180 100 100);
+}
+.actneu-i-fuchsia:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 45), inset -1rem -1rem 2rem hsl(300 100 55);
+}
+.actneu-i-fuchsia-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 50), inset -1rem -1rem 2rem hsl(300 100 60);
+}
+.actneu-i-fuchsia-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 55), inset -1rem -1rem 2rem hsl(300 100 65);
+}
+.actneu-i-fuchsia-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 60), inset -1rem -1rem 2rem hsl(300 100 70);
+}
+.actneu-i-fuchsia-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 65), inset -1rem -1rem 2rem hsl(300 100 75);
+}
+.actneu-i-fuchsia-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 70), inset -1rem -1rem 2rem hsl(300 100 80);
+}
+.actneu-i-fuchsia-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 75), inset -1rem -1rem 2rem hsl(300 100 85);
+}
+.actneu-i-fuchsia-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 80), inset -1rem -1rem 2rem hsl(300 100 90);
+}
+.actneu-i-fuchsia-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 85), inset -1rem -1rem 2rem hsl(300 100 95);
+}
+.actneu-i-fuchsia-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 90), inset -1rem -1rem 2rem hsl(300 100 100);
+}
+.actneu-i-green:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 45), inset -1rem -1rem 2rem hsl(120 100 55);
+}
+.actneu-i-green-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 50), inset -1rem -1rem 2rem hsl(120 100 60);
+}
+.actneu-i-green-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 55), inset -1rem -1rem 2rem hsl(120 100 65);
+}
+.actneu-i-green-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 60), inset -1rem -1rem 2rem hsl(120 100 70);
+}
+.actneu-i-green-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 65), inset -1rem -1rem 2rem hsl(120 100 75);
+}
+.actneu-i-green-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 70), inset -1rem -1rem 2rem hsl(120 100 80);
+}
+.actneu-i-green-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 75), inset -1rem -1rem 2rem hsl(120 100 85);
+}
+.actneu-i-green-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 80), inset -1rem -1rem 2rem hsl(120 100 90);
+}
+.actneu-i-green-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 85), inset -1rem -1rem 2rem hsl(120 100 95);
+}
+.actneu-i-green-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 90), inset -1rem -1rem 2rem hsl(120 100 100);
+}
+.actneu-i-gray:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 0), inset -1rem -1rem 2rem hsl(0 0 10);
+}
+.actneu-i-gray-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 5), inset -1rem -1rem 2rem hsl(0 0 15);
+}
+.actneu-i-gray-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 10), inset -1rem -1rem 2rem hsl(0 0 20);
+}
+.actneu-i-gray-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 15), inset -1rem -1rem 2rem hsl(0 0 25);
+}
+.actneu-i-gray-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 20), inset -1rem -1rem 2rem hsl(0 0 30);
+}
+.actneu-i-gray-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 25), inset -1rem -1rem 2rem hsl(0 0 35);
+}
+.actneu-i-gray-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 30), inset -1rem -1rem 2rem hsl(0 0 40);
+}
+.actneu-i-gray-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 35), inset -1rem -1rem 2rem hsl(0 0 45);
+}
+.actneu-i-gray-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 40), inset -1rem -1rem 2rem hsl(0 0 50);
+}
+.actneu-i-gray-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 45), inset -1rem -1rem 2rem hsl(0 0 55);
+}
+.actneu-i-gray-11:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 50), inset -1rem -1rem 2rem hsl(0 0 60);
+}
+.actneu-i-gray-12:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 55), inset -1rem -1rem 2rem hsl(0 0 65);
+}
+.actneu-i-gray-13:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 60), inset -1rem -1rem 2rem hsl(0 0 70);
+}
+.actneu-i-gray-14:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 65), inset -1rem -1rem 2rem hsl(0 0 75);
+}
+.actneu-i-gray-15:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 70), inset -1rem -1rem 2rem hsl(0 0 80);
+}
+.actneu-i-gray-16:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 75), inset -1rem -1rem 2rem hsl(0 0 85);
+}
+.actneu-i-gray-17:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 80), inset -1rem -1rem 2rem hsl(0 0 90);
+}
+.actneu-i-gray-18:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 85), inset -1rem -1rem 2rem hsl(0 0 95);
+}
+.actneu-i-gray-19:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 90), inset -1rem -1rem 2rem hsl(0 0 100);
+}
+.actneu-i-lime:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 45), inset -1rem -1rem 2rem hsl(90 100 55);
+}
+.actneu-i-lime-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 50), inset -1rem -1rem 2rem hsl(90 100 60);
+}
+.actneu-i-lime-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 55), inset -1rem -1rem 2rem hsl(90 100 65);
+}
+.actneu-i-lime-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 60), inset -1rem -1rem 2rem hsl(90 100 70);
+}
+.actneu-i-lime-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 65), inset -1rem -1rem 2rem hsl(90 100 75);
+}
+.actneu-i-lime-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 70), inset -1rem -1rem 2rem hsl(90 100 80);
+}
+.actneu-i-lime-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 75), inset -1rem -1rem 2rem hsl(90 100 85);
+}
+.actneu-i-lime-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 80), inset -1rem -1rem 2rem hsl(90 100 90);
+}
+.actneu-i-lime-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 85), inset -1rem -1rem 2rem hsl(90 100 95);
+}
+.actneu-i-lime-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 90), inset -1rem -1rem 2rem hsl(90 100 100);
+}
+.actneu-i-magenta:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 45), inset -1rem -1rem 2rem hsl(330 100 55);
+}
+.actneu-i-magenta-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 50), inset -1rem -1rem 2rem hsl(330 100 60);
+}
+.actneu-i-magenta-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 55), inset -1rem -1rem 2rem hsl(330 100 65);
+}
+.actneu-i-magenta-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 60), inset -1rem -1rem 2rem hsl(330 100 70);
+}
+.actneu-i-magenta-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 65), inset -1rem -1rem 2rem hsl(330 100 75);
+}
+.actneu-i-magenta-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 70), inset -1rem -1rem 2rem hsl(330 100 80);
+}
+.actneu-i-magenta-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 75), inset -1rem -1rem 2rem hsl(330 100 85);
+}
+.actneu-i-magenta-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 80), inset -1rem -1rem 2rem hsl(330 100 90);
+}
+.actneu-i-magenta-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 85), inset -1rem -1rem 2rem hsl(330 100 95);
+}
+.actneu-i-magenta-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 90), inset -1rem -1rem 2rem hsl(330 100 100);
+}
+.actneu-i-orange:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 45), inset -1rem -1rem 2rem hsl(30 100 55);
+}
+.actneu-i-orange-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 50), inset -1rem -1rem 2rem hsl(30 100 60);
+}
+.actneu-i-orange-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 55), inset -1rem -1rem 2rem hsl(30 100 65);
+}
+.actneu-i-orange-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 60), inset -1rem -1rem 2rem hsl(30 100 70);
+}
+.actneu-i-orange-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 65), inset -1rem -1rem 2rem hsl(30 100 75);
+}
+.actneu-i-orange-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 70), inset -1rem -1rem 2rem hsl(30 100 80);
+}
+.actneu-i-orange-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 75), inset -1rem -1rem 2rem hsl(30 100 85);
+}
+.actneu-i-orange-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 80), inset -1rem -1rem 2rem hsl(30 100 90);
+}
+.actneu-i-orange-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 85), inset -1rem -1rem 2rem hsl(30 100 95);
+}
+.actneu-i-orange-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 90), inset -1rem -1rem 2rem hsl(30 100 100);
+}
+.actneu-i-purple:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 45), inset -1rem -1rem 2rem hsl(270 100 55);
+}
+.actneu-i-purple-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 50), inset -1rem -1rem 2rem hsl(270 100 60);
+}
+.actneu-i-purple-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 55), inset -1rem -1rem 2rem hsl(270 100 65);
+}
+.actneu-i-purple-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 60), inset -1rem -1rem 2rem hsl(270 100 70);
+}
+.actneu-i-purple-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 65), inset -1rem -1rem 2rem hsl(270 100 75);
+}
+.actneu-i-purple-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 70), inset -1rem -1rem 2rem hsl(270 100 80);
+}
+.actneu-i-purple-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 75), inset -1rem -1rem 2rem hsl(270 100 85);
+}
+.actneu-i-purple-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 80), inset -1rem -1rem 2rem hsl(270 100 90);
+}
+.actneu-i-purple-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 85), inset -1rem -1rem 2rem hsl(270 100 95);
+}
+.actneu-i-purple-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 90), inset -1rem -1rem 2rem hsl(270 100 100);
+}
+.actneu-i-red:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 45), inset -1rem -1rem 2rem hsl(0 100 55);
+}
+.actneu-i-red-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 50), inset -1rem -1rem 2rem hsl(0 100 60);
+}
+.actneu-i-red-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 55), inset -1rem -1rem 2rem hsl(0 100 65);
+}
+.actneu-i-red-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 60), inset -1rem -1rem 2rem hsl(0 100 70);
+}
+.actneu-i-red-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 65), inset -1rem -1rem 2rem hsl(0 100 75);
+}
+.actneu-i-red-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 70), inset -1rem -1rem 2rem hsl(0 100 80);
+}
+.actneu-i-red-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 75), inset -1rem -1rem 2rem hsl(0 100 85);
+}
+.actneu-i-red-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 80), inset -1rem -1rem 2rem hsl(0 100 90);
+}
+.actneu-i-red-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 85), inset -1rem -1rem 2rem hsl(0 100 95);
+}
+.actneu-i-red-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 90), inset -1rem -1rem 2rem hsl(0 100 100);
+}
+.actneu-i-sky:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 45), inset -1rem -1rem 2rem hsl(210 100 55);
+}
+.actneu-i-sky-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 50), inset -1rem -1rem 2rem hsl(210 100 60);
+}
+.actneu-i-sky-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 55), inset -1rem -1rem 2rem hsl(210 100 65);
+}
+.actneu-i-sky-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 60), inset -1rem -1rem 2rem hsl(210 100 70);
+}
+.actneu-i-sky-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 65), inset -1rem -1rem 2rem hsl(210 100 75);
+}
+.actneu-i-sky-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 70), inset -1rem -1rem 2rem hsl(210 100 80);
+}
+.actneu-i-sky-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 75), inset -1rem -1rem 2rem hsl(210 100 85);
+}
+.actneu-i-sky-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 80), inset -1rem -1rem 2rem hsl(210 100 90);
+}
+.actneu-i-sky-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 85), inset -1rem -1rem 2rem hsl(210 100 95);
+}
+.actneu-i-sky-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 90), inset -1rem -1rem 2rem hsl(210 100 100);
+}
+.actneu-i-springgreen:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 45), inset -1rem -1rem 2rem hsl(150 100 55);
+}
+.actneu-i-springgreen-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 50), inset -1rem -1rem 2rem hsl(150 100 60);
+}
+.actneu-i-springgreen-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 55), inset -1rem -1rem 2rem hsl(150 100 65);
+}
+.actneu-i-springgreen-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 60), inset -1rem -1rem 2rem hsl(150 100 70);
+}
+.actneu-i-springgreen-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 65), inset -1rem -1rem 2rem hsl(150 100 75);
+}
+.actneu-i-springgreen-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 70), inset -1rem -1rem 2rem hsl(150 100 80);
+}
+.actneu-i-springgreen-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 75), inset -1rem -1rem 2rem hsl(150 100 85);
+}
+.actneu-i-springgreen-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 80), inset -1rem -1rem 2rem hsl(150 100 90);
+}
+.actneu-i-springgreen-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 85), inset -1rem -1rem 2rem hsl(150 100 95);
+}
+.actneu-i-springgreen-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 90), inset -1rem -1rem 2rem hsl(150 100 100);
+}
+.actneu-i-white:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 95), inset -1rem -1rem 2rem hsl(0 0 100);
+}
+.actneu-i-yellow:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 45), inset -1rem -1rem 2rem hsl(60 100 55);
+}
+.actneu-i-yellow-2:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 50), inset -1rem -1rem 2rem hsl(60 100 60);
+}
+.actneu-i-yellow-3:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 55), inset -1rem -1rem 2rem hsl(60 100 65);
+}
+.actneu-i-yellow-4:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 60), inset -1rem -1rem 2rem hsl(60 100 70);
+}
+.actneu-i-yellow-5:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 65), inset -1rem -1rem 2rem hsl(60 100 75);
+}
+.actneu-i-yellow-6:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 70), inset -1rem -1rem 2rem hsl(60 100 80);
+}
+.actneu-i-yellow-7:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 75), inset -1rem -1rem 2rem hsl(60 100 85);
+}
+.actneu-i-yellow-8:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 80), inset -1rem -1rem 2rem hsl(60 100 90);
+}
+.actneu-i-yellow-9:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 85), inset -1rem -1rem 2rem hsl(60 100 95);
+}
+.actneu-i-yellow-10:active{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 90), inset -1rem -1rem 2rem hsl(60 100 100);
+}
+
+
 /* border color bottom | bcb */
 .bcb-black{
     border-bottom-color: hsl(0 0 0);
@@ -5946,4 +6795,1700 @@
 }
 .hovcol-yellow-10:hover{
     color: hsl(60 100 95);
+}
+
+/* hover neumorphism | hovneu */
+.hovneu-black:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 0), -1rem -1rem 2rem hsl(0 0 5);
+}
+.hovneu-blue:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 45), -1rem -1rem 2rem hsl(240 100 55);
+}
+.hovneu-blue-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 50), -1rem -1rem 2rem hsl(240 100 60);
+}
+.hovneu-blue-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 55), -1rem -1rem 2rem hsl(240 100 65);
+}
+.hovneu-blue-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 60), -1rem -1rem 2rem hsl(240 100 70);
+}
+.hovneu-blue-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 65), -1rem -1rem 2rem hsl(240 100 75);
+}
+.hovneu-blue-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 70), -1rem -1rem 2rem hsl(240 100 80);
+}
+.hovneu-blue-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 75), -1rem -1rem 2rem hsl(240 100 85);
+}
+.hovneu-blue-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 80), -1rem -1rem 2rem hsl(240 100 90);
+}
+.hovneu-blue-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 85), -1rem -1rem 2rem hsl(240 100 95);
+}
+.hovneu-blue-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 90), -1rem -1rem 2rem hsl(240 100 100);
+}
+.hovneu-cyan:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 45), -1rem -1rem 2rem hsl(180 100 55);
+}
+.hovneu-cyan-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 50), -1rem -1rem 2rem hsl(180 100 60);
+}
+.hovneu-cyan-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 55), -1rem -1rem 2rem hsl(180 100 65);
+}
+.hovneu-cyan-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 60), -1rem -1rem 2rem hsl(180 100 70);
+}
+.hovneu-cyan-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 65), -1rem -1rem 2rem hsl(180 100 75);
+}
+.hovneu-cyan-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 70), -1rem -1rem 2rem hsl(180 100 80);
+}
+.hovneu-cyan-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 75), -1rem -1rem 2rem hsl(180 100 85);
+}
+.hovneu-cyan-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 80), -1rem -1rem 2rem hsl(180 100 90);
+}
+.hovneu-cyan-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 85), -1rem -1rem 2rem hsl(180 100 95);
+}
+.hovneu-cyan-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 90), -1rem -1rem 2rem hsl(180 100 100);
+}
+.hovneu-fuchsia:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 45), -1rem -1rem 2rem hsl(300 100 55);
+}
+.hovneu-fuchsia-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 50), -1rem -1rem 2rem hsl(300 100 60);
+}
+.hovneu-fuchsia-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 55), -1rem -1rem 2rem hsl(300 100 65);
+}
+.hovneu-fuchsia-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 60), -1rem -1rem 2rem hsl(300 100 70);
+}
+.hovneu-fuchsia-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 65), -1rem -1rem 2rem hsl(300 100 75);
+}
+.hovneu-fuchsia-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 70), -1rem -1rem 2rem hsl(300 100 80);
+}
+.hovneu-fuchsia-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 75), -1rem -1rem 2rem hsl(300 100 85);
+}
+.hovneu-fuchsia-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 80), -1rem -1rem 2rem hsl(300 100 90);
+}
+.hovneu-fuchsia-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 85), -1rem -1rem 2rem hsl(300 100 95);
+}
+.hovneu-fuchsia-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 90), -1rem -1rem 2rem hsl(300 100 100);
+}
+.hovneu-green:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 45), -1rem -1rem 2rem hsl(120 100 55);
+}
+.hovneu-green-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 50), -1rem -1rem 2rem hsl(120 100 60);
+}
+.hovneu-green-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 55), -1rem -1rem 2rem hsl(120 100 65);
+}
+.hovneu-green-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 60), -1rem -1rem 2rem hsl(120 100 70);
+}
+.hovneu-green-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 65), -1rem -1rem 2rem hsl(120 100 75);
+}
+.hovneu-green-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 70), -1rem -1rem 2rem hsl(120 100 80);
+}
+.hovneu-green-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 75), -1rem -1rem 2rem hsl(120 100 85);
+}
+.hovneu-green-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 80), -1rem -1rem 2rem hsl(120 100 90);
+}
+.hovneu-green-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 85), -1rem -1rem 2rem hsl(120 100 95);
+}
+.hovneu-green-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 90), -1rem -1rem 2rem hsl(120 100 100);
+}
+.hovneu-gray:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 0), -1rem -1rem 2rem hsl(0 0 10);
+}
+.hovneu-gray-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 5), -1rem -1rem 2rem hsl(0 0 15);
+}
+.hovneu-gray-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 10), -1rem -1rem 2rem hsl(0 0 20);
+}
+.hovneu-gray-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 15), -1rem -1rem 2rem hsl(0 0 25);
+}
+.hovneu-gray-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 20), -1rem -1rem 2rem hsl(0 0 30);
+}
+.hovneu-gray-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 25), -1rem -1rem 2rem hsl(0 0 35);
+}
+.hovneu-gray-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 30), -1rem -1rem 2rem hsl(0 0 40);
+}
+.hovneu-gray-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 35), -1rem -1rem 2rem hsl(0 0 45);
+}
+.hovneu-gray-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 40), -1rem -1rem 2rem hsl(0 0 50);
+}
+.hovneu-gray-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 45), -1rem -1rem 2rem hsl(0 0 55);
+}
+.hovneu-gray-11:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 50), -1rem -1rem 2rem hsl(0 0 60);
+}
+.hovneu-gray-12:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 55), -1rem -1rem 2rem hsl(0 0 65);
+}
+.hovneu-gray-13:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 60), -1rem -1rem 2rem hsl(0 0 70);
+}
+.hovneu-gray-14:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 65), -1rem -1rem 2rem hsl(0 0 75);
+}
+.hovneu-gray-15:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 70), -1rem -1rem 2rem hsl(0 0 80);
+}
+.hovneu-gray-16:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 75), -1rem -1rem 2rem hsl(0 0 85);
+}
+.hovneu-gray-17:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 80), -1rem -1rem 2rem hsl(0 0 90);
+}
+.hovneu-gray-18:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 85), -1rem -1rem 2rem hsl(0 0 95);
+}
+.hovneu-gray-19:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 90), -1rem -1rem 2rem hsl(0 0 100);
+}
+.hovneu-lime:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 45), -1rem -1rem 2rem hsl(90 100 55);
+}
+.hovneu-lime-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 50), -1rem -1rem 2rem hsl(90 100 60);
+}
+.hovneu-lime-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 55), -1rem -1rem 2rem hsl(90 100 65);
+}
+.hovneu-lime-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 60), -1rem -1rem 2rem hsl(90 100 70);
+}
+.hovneu-lime-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 65), -1rem -1rem 2rem hsl(90 100 75);
+}
+.hovneu-lime-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 70), -1rem -1rem 2rem hsl(90 100 80);
+}
+.hovneu-lime-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 75), -1rem -1rem 2rem hsl(90 100 85);
+}
+.hovneu-lime-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 80), -1rem -1rem 2rem hsl(90 100 90);
+}
+.hovneu-lime-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 85), -1rem -1rem 2rem hsl(90 100 95);
+}
+.hovneu-lime-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 90), -1rem -1rem 2rem hsl(90 100 100);
+}
+.hovneu-magenta:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 45), -1rem -1rem 2rem hsl(330 100 55);
+}
+.hovneu-magenta-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 50), -1rem -1rem 2rem hsl(330 100 60);
+}
+.hovneu-magenta-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 55), -1rem -1rem 2rem hsl(330 100 65);
+}
+.hovneu-magenta-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 60), -1rem -1rem 2rem hsl(330 100 70);
+}
+.hovneu-magenta-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 65), -1rem -1rem 2rem hsl(330 100 75);
+}
+.hovneu-magenta-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 70), -1rem -1rem 2rem hsl(330 100 80);
+}
+.hovneu-magenta-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 75), -1rem -1rem 2rem hsl(330 100 85);
+}
+.hovneu-magenta-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 80), -1rem -1rem 2rem hsl(330 100 90);
+}
+.hovneu-magenta-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 85), -1rem -1rem 2rem hsl(330 100 95);
+}
+.hovneu-magenta-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 90), -1rem -1rem 2rem hsl(330 100 100);
+}
+.hovneu-orange:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 45), -1rem -1rem 2rem hsl(30 100 55);
+}
+.hovneu-orange-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 50), -1rem -1rem 2rem hsl(30 100 60);
+}
+.hovneu-orange-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 55), -1rem -1rem 2rem hsl(30 100 65);
+}
+.hovneu-orange-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 60), -1rem -1rem 2rem hsl(30 100 70);
+}
+.hovneu-orange-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 65), -1rem -1rem 2rem hsl(30 100 75);
+}
+.hovneu-orange-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 70), -1rem -1rem 2rem hsl(30 100 80);
+}
+.hovneu-orange-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 75), -1rem -1rem 2rem hsl(30 100 85);
+}
+.hovneu-orange-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 80), -1rem -1rem 2rem hsl(30 100 90);
+}
+.hovneu-orange-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 85), -1rem -1rem 2rem hsl(30 100 95);
+}
+.hovneu-orange-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 90), -1rem -1rem 2rem hsl(30 100 100);
+}
+.hovneu-purple:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 45), -1rem -1rem 2rem hsl(270 100 55);
+}
+.hovneu-purple-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 50), -1rem -1rem 2rem hsl(270 100 60);
+}
+.hovneu-purple-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 55), -1rem -1rem 2rem hsl(270 100 65);
+}
+.hovneu-purple-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 60), -1rem -1rem 2rem hsl(270 100 70);
+}
+.hovneu-purple-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 65), -1rem -1rem 2rem hsl(270 100 75);
+}
+.hovneu-purple-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 70), -1rem -1rem 2rem hsl(270 100 80);
+}
+.hovneu-purple-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 75), -1rem -1rem 2rem hsl(270 100 85);
+}
+.hovneu-purple-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 80), -1rem -1rem 2rem hsl(270 100 90);
+}
+.hovneu-purple-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 85), -1rem -1rem 2rem hsl(270 100 95);
+}
+.hovneu-purple-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 90), -1rem -1rem 2rem hsl(270 100 100);
+}
+.hovneu-red:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 45), -1rem -1rem 2rem hsl(0 100 55);
+}
+.hovneu-red-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 50), -1rem -1rem 2rem hsl(0 100 60);
+}
+.hovneu-red-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 55), -1rem -1rem 2rem hsl(0 100 65);
+}
+.hovneu-red-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 60), -1rem -1rem 2rem hsl(0 100 70);
+}
+.hovneu-red-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 65), -1rem -1rem 2rem hsl(0 100 75);
+}
+.hovneu-red-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 70), -1rem -1rem 2rem hsl(0 100 80);
+}
+.hovneu-red-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 75), -1rem -1rem 2rem hsl(0 100 85);
+}
+.hovneu-red-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 80), -1rem -1rem 2rem hsl(0 100 90);
+}
+.hovneu-red-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 85), -1rem -1rem 2rem hsl(0 100 95);
+}
+.hovneu-red-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 90), -1rem -1rem 2rem hsl(0 100 100);
+}
+.hovneu-sky:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 45), -1rem -1rem 2rem hsl(210 100 55);
+}
+.hovneu-sky-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 50), -1rem -1rem 2rem hsl(210 100 60);
+}
+.hovneu-sky-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 55), -1rem -1rem 2rem hsl(210 100 65);
+}
+.hovneu-sky-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 60), -1rem -1rem 2rem hsl(210 100 70);
+}
+.hovneu-sky-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 65), -1rem -1rem 2rem hsl(210 100 75);
+}
+.hovneu-sky-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 70), -1rem -1rem 2rem hsl(210 100 80);
+}
+.hovneu-sky-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 75), -1rem -1rem 2rem hsl(210 100 85);
+}
+.hovneu-sky-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 80), -1rem -1rem 2rem hsl(210 100 90);
+}
+.hovneu-sky-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 85), -1rem -1rem 2rem hsl(210 100 95);
+}
+.hovneu-sky-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 90), -1rem -1rem 2rem hsl(210 100 100);
+}
+.hovneu-springgreen:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 45), -1rem -1rem 2rem hsl(150 100 55);
+}
+.hovneu-springgreen-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 50), -1rem -1rem 2rem hsl(150 100 60);
+}
+.hovneu-springgreen-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 55), -1rem -1rem 2rem hsl(150 100 65);
+}
+.hovneu-springgreen-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 60), -1rem -1rem 2rem hsl(150 100 70);
+}
+.hovneu-springgreen-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 65), -1rem -1rem 2rem hsl(150 100 75);
+}
+.hovneu-springgreen-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 70), -1rem -1rem 2rem hsl(150 100 80);
+}
+.hovneu-springgreen-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 75), -1rem -1rem 2rem hsl(150 100 85);
+}
+.hovneu-springgreen-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 80), -1rem -1rem 2rem hsl(150 100 90);
+}
+.hovneu-springgreen-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 85), -1rem -1rem 2rem hsl(150 100 95);
+}
+.hovneu-springgreen-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 90), -1rem -1rem 2rem hsl(150 100 100);
+}
+.hovneu-white:hover{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 95), -1rem -1rem 2rem hsl(0 0 100);
+}
+.hovneu-yellow:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 45), -1rem -1rem 2rem hsl(60 100 55);
+}
+.hovneu-yellow-2:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 50), -1rem -1rem 2rem hsl(60 100 60);
+}
+.hovneu-yellow-3:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 55), -1rem -1rem 2rem hsl(60 100 65);
+}
+.hovneu-yellow-4:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 60), -1rem -1rem 2rem hsl(60 100 70);
+}
+.hovneu-yellow-5:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 65), -1rem -1rem 2rem hsl(60 100 75);
+}
+.hovneu-yellow-6:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 70), -1rem -1rem 2rem hsl(60 100 80);
+}
+.hovneu-yellow-7:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 75), -1rem -1rem 2rem hsl(60 100 85);
+}
+.hovneu-yellow-8:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 80), -1rem -1rem 2rem hsl(60 100 90);
+}
+.hovneu-yellow-9:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 85), -1rem -1rem 2rem hsl(60 100 95);
+}
+.hovneu-yellow-10:hover{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 90), -1rem -1rem 2rem hsl(60 100 100);
+}
+.hovneu-i-black:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 0), inset -1rem -1rem 2rem hsl(0 0 5);
+}
+.hovneu-i-blue:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 45), inset -1rem -1rem 2rem hsl(240 100 55);
+}
+.hovneu-i-blue-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 50), inset -1rem -1rem 2rem hsl(240 100 60);
+}
+.hovneu-i-blue-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 55), inset -1rem -1rem 2rem hsl(240 100 65);
+}
+.hovneu-i-blue-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 60), inset -1rem -1rem 2rem hsl(240 100 70);
+}
+.hovneu-i-blue-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 65), inset -1rem -1rem 2rem hsl(240 100 75);
+}
+.hovneu-i-blue-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 70), inset -1rem -1rem 2rem hsl(240 100 80);
+}
+.hovneu-i-blue-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 75), inset -1rem -1rem 2rem hsl(240 100 85);
+}
+.hovneu-i-blue-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 80), inset -1rem -1rem 2rem hsl(240 100 90);
+}
+.hovneu-i-blue-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 85), inset -1rem -1rem 2rem hsl(240 100 95);
+}
+.hovneu-i-blue-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 90), inset -1rem -1rem 2rem hsl(240 100 100);
+}
+.hovneu-i-cyan:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 45), inset -1rem -1rem 2rem hsl(180 100 55);
+}
+.hovneu-i-cyan-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 50), inset -1rem -1rem 2rem hsl(180 100 60);
+}
+.hovneu-i-cyan-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 55), inset -1rem -1rem 2rem hsl(180 100 65);
+}
+.hovneu-i-cyan-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 60), inset -1rem -1rem 2rem hsl(180 100 70);
+}
+.hovneu-i-cyan-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 65), inset -1rem -1rem 2rem hsl(180 100 75);
+}
+.hovneu-i-cyan-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 70), inset -1rem -1rem 2rem hsl(180 100 80);
+}
+.hovneu-i-cyan-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 75), inset -1rem -1rem 2rem hsl(180 100 85);
+}
+.hovneu-i-cyan-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 80), inset -1rem -1rem 2rem hsl(180 100 90);
+}
+.hovneu-i-cyan-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 85), inset -1rem -1rem 2rem hsl(180 100 95);
+}
+.hovneu-i-cyan-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 90), inset -1rem -1rem 2rem hsl(180 100 100);
+}
+.hovneu-i-fuchsia:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 45), inset -1rem -1rem 2rem hsl(300 100 55);
+}
+.hovneu-i-fuchsia-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 50), inset -1rem -1rem 2rem hsl(300 100 60);
+}
+.hovneu-i-fuchsia-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 55), inset -1rem -1rem 2rem hsl(300 100 65);
+}
+.hovneu-i-fuchsia-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 60), inset -1rem -1rem 2rem hsl(300 100 70);
+}
+.hovneu-i-fuchsia-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 65), inset -1rem -1rem 2rem hsl(300 100 75);
+}
+.hovneu-i-fuchsia-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 70), inset -1rem -1rem 2rem hsl(300 100 80);
+}
+.hovneu-i-fuchsia-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 75), inset -1rem -1rem 2rem hsl(300 100 85);
+}
+.hovneu-i-fuchsia-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 80), inset -1rem -1rem 2rem hsl(300 100 90);
+}
+.hovneu-i-fuchsia-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 85), inset -1rem -1rem 2rem hsl(300 100 95);
+}
+.hovneu-i-fuchsia-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 90), inset -1rem -1rem 2rem hsl(300 100 100);
+}
+.hovneu-i-green:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 45), inset -1rem -1rem 2rem hsl(120 100 55);
+}
+.hovneu-i-green-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 50), inset -1rem -1rem 2rem hsl(120 100 60);
+}
+.hovneu-i-green-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 55), inset -1rem -1rem 2rem hsl(120 100 65);
+}
+.hovneu-i-green-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 60), inset -1rem -1rem 2rem hsl(120 100 70);
+}
+.hovneu-i-green-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 65), inset -1rem -1rem 2rem hsl(120 100 75);
+}
+.hovneu-i-green-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 70), inset -1rem -1rem 2rem hsl(120 100 80);
+}
+.hovneu-i-green-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 75), inset -1rem -1rem 2rem hsl(120 100 85);
+}
+.hovneu-i-green-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 80), inset -1rem -1rem 2rem hsl(120 100 90);
+}
+.hovneu-i-green-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 85), inset -1rem -1rem 2rem hsl(120 100 95);
+}
+.hovneu-i-green-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 90), inset -1rem -1rem 2rem hsl(120 100 100);
+}
+.hovneu-i-gray:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 0), inset -1rem -1rem 2rem hsl(0 0 10);
+}
+.hovneu-i-gray-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 5), inset -1rem -1rem 2rem hsl(0 0 15);
+}
+.hovneu-i-gray-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 10), inset -1rem -1rem 2rem hsl(0 0 20);
+}
+.hovneu-i-gray-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 15), inset -1rem -1rem 2rem hsl(0 0 25);
+}
+.hovneu-i-gray-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 20), inset -1rem -1rem 2rem hsl(0 0 30);
+}
+.hovneu-i-gray-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 25), inset -1rem -1rem 2rem hsl(0 0 35);
+}
+.hovneu-i-gray-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 30), inset -1rem -1rem 2rem hsl(0 0 40);
+}
+.hovneu-i-gray-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 35), inset -1rem -1rem 2rem hsl(0 0 45);
+}
+.hovneu-i-gray-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 40), inset -1rem -1rem 2rem hsl(0 0 50);
+}
+.hovneu-i-gray-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 45), inset -1rem -1rem 2rem hsl(0 0 55);
+}
+.hovneu-i-gray-11:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 50), inset -1rem -1rem 2rem hsl(0 0 60);
+}
+.hovneu-i-gray-12:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 55), inset -1rem -1rem 2rem hsl(0 0 65);
+}
+.hovneu-i-gray-13:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 60), inset -1rem -1rem 2rem hsl(0 0 70);
+}
+.hovneu-i-gray-14:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 65), inset -1rem -1rem 2rem hsl(0 0 75);
+}
+.hovneu-i-gray-15:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 70), inset -1rem -1rem 2rem hsl(0 0 80);
+}
+.hovneu-i-gray-16:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 75), inset -1rem -1rem 2rem hsl(0 0 85);
+}
+.hovneu-i-gray-17:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 80), inset -1rem -1rem 2rem hsl(0 0 90);
+}
+.hovneu-i-gray-18:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 85), inset -1rem -1rem 2rem hsl(0 0 95);
+}
+.hovneu-i-gray-19:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 90), inset -1rem -1rem 2rem hsl(0 0 100);
+}
+.hovneu-i-lime:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 45), inset -1rem -1rem 2rem hsl(90 100 55);
+}
+.hovneu-i-lime-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 50), inset -1rem -1rem 2rem hsl(90 100 60);
+}
+.hovneu-i-lime-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 55), inset -1rem -1rem 2rem hsl(90 100 65);
+}
+.hovneu-i-lime-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 60), inset -1rem -1rem 2rem hsl(90 100 70);
+}
+.hovneu-i-lime-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 65), inset -1rem -1rem 2rem hsl(90 100 75);
+}
+.hovneu-i-lime-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 70), inset -1rem -1rem 2rem hsl(90 100 80);
+}
+.hovneu-i-lime-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 75), inset -1rem -1rem 2rem hsl(90 100 85);
+}
+.hovneu-i-lime-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 80), inset -1rem -1rem 2rem hsl(90 100 90);
+}
+.hovneu-i-lime-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 85), inset -1rem -1rem 2rem hsl(90 100 95);
+}
+.hovneu-i-lime-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 90), inset -1rem -1rem 2rem hsl(90 100 100);
+}
+.hovneu-i-magenta:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 45), inset -1rem -1rem 2rem hsl(330 100 55);
+}
+.hovneu-i-magenta-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 50), inset -1rem -1rem 2rem hsl(330 100 60);
+}
+.hovneu-i-magenta-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 55), inset -1rem -1rem 2rem hsl(330 100 65);
+}
+.hovneu-i-magenta-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 60), inset -1rem -1rem 2rem hsl(330 100 70);
+}
+.hovneu-i-magenta-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 65), inset -1rem -1rem 2rem hsl(330 100 75);
+}
+.hovneu-i-magenta-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 70), inset -1rem -1rem 2rem hsl(330 100 80);
+}
+.hovneu-i-magenta-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 75), inset -1rem -1rem 2rem hsl(330 100 85);
+}
+.hovneu-i-magenta-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 80), inset -1rem -1rem 2rem hsl(330 100 90);
+}
+.hovneu-i-magenta-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 85), inset -1rem -1rem 2rem hsl(330 100 95);
+}
+.hovneu-i-magenta-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 90), inset -1rem -1rem 2rem hsl(330 100 100);
+}
+.hovneu-i-orange:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 45), inset -1rem -1rem 2rem hsl(30 100 55);
+}
+.hovneu-i-orange-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 50), inset -1rem -1rem 2rem hsl(30 100 60);
+}
+.hovneu-i-orange-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 55), inset -1rem -1rem 2rem hsl(30 100 65);
+}
+.hovneu-i-orange-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 60), inset -1rem -1rem 2rem hsl(30 100 70);
+}
+.hovneu-i-orange-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 65), inset -1rem -1rem 2rem hsl(30 100 75);
+}
+.hovneu-i-orange-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 70), inset -1rem -1rem 2rem hsl(30 100 80);
+}
+.hovneu-i-orange-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 75), inset -1rem -1rem 2rem hsl(30 100 85);
+}
+.hovneu-i-orange-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 80), inset -1rem -1rem 2rem hsl(30 100 90);
+}
+.hovneu-i-orange-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 85), inset -1rem -1rem 2rem hsl(30 100 95);
+}
+.hovneu-i-orange-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 90), inset -1rem -1rem 2rem hsl(30 100 100);
+}
+.hovneu-i-purple:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 45), inset -1rem -1rem 2rem hsl(270 100 55);
+}
+.hovneu-i-purple-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 50), inset -1rem -1rem 2rem hsl(270 100 60);
+}
+.hovneu-i-purple-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 55), inset -1rem -1rem 2rem hsl(270 100 65);
+}
+.hovneu-i-purple-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 60), inset -1rem -1rem 2rem hsl(270 100 70);
+}
+.hovneu-i-purple-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 65), inset -1rem -1rem 2rem hsl(270 100 75);
+}
+.hovneu-i-purple-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 70), inset -1rem -1rem 2rem hsl(270 100 80);
+}
+.hovneu-i-purple-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 75), inset -1rem -1rem 2rem hsl(270 100 85);
+}
+.hovneu-i-purple-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 80), inset -1rem -1rem 2rem hsl(270 100 90);
+}
+.hovneu-i-purple-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 85), inset -1rem -1rem 2rem hsl(270 100 95);
+}
+.hovneu-i-purple-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 90), inset -1rem -1rem 2rem hsl(270 100 100);
+}
+.hovneu-i-red:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 45), inset -1rem -1rem 2rem hsl(0 100 55);
+}
+.hovneu-i-red-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 50), inset -1rem -1rem 2rem hsl(0 100 60);
+}
+.hovneu-i-red-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 55), inset -1rem -1rem 2rem hsl(0 100 65);
+}
+.hovneu-i-red-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 60), inset -1rem -1rem 2rem hsl(0 100 70);
+}
+.hovneu-i-red-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 65), inset -1rem -1rem 2rem hsl(0 100 75);
+}
+.hovneu-i-red-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 70), inset -1rem -1rem 2rem hsl(0 100 80);
+}
+.hovneu-i-red-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 75), inset -1rem -1rem 2rem hsl(0 100 85);
+}
+.hovneu-i-red-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 80), inset -1rem -1rem 2rem hsl(0 100 90);
+}
+.hovneu-i-red-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 85), inset -1rem -1rem 2rem hsl(0 100 95);
+}
+.hovneu-i-red-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 90), inset -1rem -1rem 2rem hsl(0 100 100);
+}
+.hovneu-i-sky:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 45), inset -1rem -1rem 2rem hsl(210 100 55);
+}
+.hovneu-i-sky-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 50), inset -1rem -1rem 2rem hsl(210 100 60);
+}
+.hovneu-i-sky-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 55), inset -1rem -1rem 2rem hsl(210 100 65);
+}
+.hovneu-i-sky-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 60), inset -1rem -1rem 2rem hsl(210 100 70);
+}
+.hovneu-i-sky-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 65), inset -1rem -1rem 2rem hsl(210 100 75);
+}
+.hovneu-i-sky-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 70), inset -1rem -1rem 2rem hsl(210 100 80);
+}
+.hovneu-i-sky-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 75), inset -1rem -1rem 2rem hsl(210 100 85);
+}
+.hovneu-i-sky-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 80), inset -1rem -1rem 2rem hsl(210 100 90);
+}
+.hovneu-i-sky-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 85), inset -1rem -1rem 2rem hsl(210 100 95);
+}
+.hovneu-i-sky-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 90), inset -1rem -1rem 2rem hsl(210 100 100);
+}
+.hovneu-i-springgreen:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 45), inset -1rem -1rem 2rem hsl(150 100 55);
+}
+.hovneu-i-springgreen-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 50), inset -1rem -1rem 2rem hsl(150 100 60);
+}
+.hovneu-i-springgreen-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 55), inset -1rem -1rem 2rem hsl(150 100 65);
+}
+.hovneu-i-springgreen-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 60), inset -1rem -1rem 2rem hsl(150 100 70);
+}
+.hovneu-i-springgreen-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 65), inset -1rem -1rem 2rem hsl(150 100 75);
+}
+.hovneu-i-springgreen-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 70), inset -1rem -1rem 2rem hsl(150 100 80);
+}
+.hovneu-i-springgreen-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 75), inset -1rem -1rem 2rem hsl(150 100 85);
+}
+.hovneu-i-springgreen-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 80), inset -1rem -1rem 2rem hsl(150 100 90);
+}
+.hovneu-i-springgreen-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 85), inset -1rem -1rem 2rem hsl(150 100 95);
+}
+.hovneu-i-springgreen-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 90), inset -1rem -1rem 2rem hsl(150 100 100);
+}
+.hovneu-i-white:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 95), inset -1rem -1rem 2rem hsl(0 0 100);
+}
+.hovneu-i-yellow:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 45), inset -1rem -1rem 2rem hsl(60 100 55);
+}
+.hovneu-i-yellow-2:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 50), inset -1rem -1rem 2rem hsl(60 100 60);
+}
+.hovneu-i-yellow-3:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 55), inset -1rem -1rem 2rem hsl(60 100 65);
+}
+.hovneu-i-yellow-4:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 60), inset -1rem -1rem 2rem hsl(60 100 70);
+}
+.hovneu-i-yellow-5:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 65), inset -1rem -1rem 2rem hsl(60 100 75);
+}
+.hovneu-i-yellow-6:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 70), inset -1rem -1rem 2rem hsl(60 100 80);
+}
+.hovneu-i-yellow-7:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 75), inset -1rem -1rem 2rem hsl(60 100 85);
+}
+.hovneu-i-yellow-8:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 80), inset -1rem -1rem 2rem hsl(60 100 90);
+}
+.hovneu-i-yellow-9:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 85), inset -1rem -1rem 2rem hsl(60 100 95);
+}
+.hovneu-i-yellow-10:hover{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 90), inset -1rem -1rem 2rem hsl(60 100 100);
+}
+
+/* neumorphism | neu */
+.neu-black{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 0), -1rem -1rem 2rem hsl(0 0 5);
+}
+.neu-blue{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 45), -1rem -1rem 2rem hsl(240 100 55);
+}
+.neu-blue-2{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 50), -1rem -1rem 2rem hsl(240 100 60);
+}
+.neu-blue-3{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 55), -1rem -1rem 2rem hsl(240 100 65);
+}
+.neu-blue-4{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 60), -1rem -1rem 2rem hsl(240 100 70);
+}
+.neu-blue-5{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 65), -1rem -1rem 2rem hsl(240 100 75);
+}
+.neu-blue-6{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 70), -1rem -1rem 2rem hsl(240 100 80);
+}
+.neu-blue-7{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 75), -1rem -1rem 2rem hsl(240 100 85);
+}
+.neu-blue-8{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 80), -1rem -1rem 2rem hsl(240 100 90);
+}
+.neu-blue-9{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 85), -1rem -1rem 2rem hsl(240 100 95);
+}
+.neu-blue-10{
+    box-shadow: 1rem 1rem 2rem hsl(240 95 90), -1rem -1rem 2rem hsl(240 100 100);
+}
+.neu-cyan{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 45), -1rem -1rem 2rem hsl(180 100 55);
+}
+.neu-cyan-2{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 50), -1rem -1rem 2rem hsl(180 100 60);
+}
+.neu-cyan-3{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 55), -1rem -1rem 2rem hsl(180 100 65);
+}
+.neu-cyan-4{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 60), -1rem -1rem 2rem hsl(180 100 70);
+}
+.neu-cyan-5{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 65), -1rem -1rem 2rem hsl(180 100 75);
+}
+.neu-cyan-6{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 70), -1rem -1rem 2rem hsl(180 100 80);
+}
+.neu-cyan-7{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 75), -1rem -1rem 2rem hsl(180 100 85);
+}
+.neu-cyan-8{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 80), -1rem -1rem 2rem hsl(180 100 90);
+}
+.neu-cyan-9{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 85), -1rem -1rem 2rem hsl(180 100 95);
+}
+.neu-cyan-10{
+    box-shadow: 1rem 1rem 2rem hsl(180 95 90), -1rem -1rem 2rem hsl(180 100 100);
+}
+.neu-fuchsia{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 45), -1rem -1rem 2rem hsl(300 100 55);
+}
+.neu-fuchsia-2{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 50), -1rem -1rem 2rem hsl(300 100 60);
+}
+.neu-fuchsia-3{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 55), -1rem -1rem 2rem hsl(300 100 65);
+}
+.neu-fuchsia-4{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 60), -1rem -1rem 2rem hsl(300 100 70);
+}
+.neu-fuchsia-5{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 65), -1rem -1rem 2rem hsl(300 100 75);
+}
+.neu-fuchsia-6{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 70), -1rem -1rem 2rem hsl(300 100 80);
+}
+.neu-fuchsia-7{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 75), -1rem -1rem 2rem hsl(300 100 85);
+}
+.neu-fuchsia-8{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 80), -1rem -1rem 2rem hsl(300 100 90);
+}
+.neu-fuchsia-9{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 85), -1rem -1rem 2rem hsl(300 100 95);
+}
+.neu-fuchsia-10{
+    box-shadow: 1rem 1rem 2rem hsl(300 95 90), -1rem -1rem 2rem hsl(300 100 100);
+}
+.neu-green{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 45), -1rem -1rem 2rem hsl(120 100 55);
+}
+.neu-green-2{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 50), -1rem -1rem 2rem hsl(120 100 60);
+}
+.neu-green-3{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 55), -1rem -1rem 2rem hsl(120 100 65);
+}
+.neu-green-4{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 60), -1rem -1rem 2rem hsl(120 100 70);
+}
+.neu-green-5{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 65), -1rem -1rem 2rem hsl(120 100 75);
+}
+.neu-green-6{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 70), -1rem -1rem 2rem hsl(120 100 80);
+}
+.neu-green-7{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 75), -1rem -1rem 2rem hsl(120 100 85);
+}
+.neu-green-8{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 80), -1rem -1rem 2rem hsl(120 100 90);
+}
+.neu-green-9{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 85), -1rem -1rem 2rem hsl(120 100 95);
+}
+.neu-green-10{
+    box-shadow: 1rem 1rem 2rem hsl(120 95 90), -1rem -1rem 2rem hsl(120 100 100);
+}
+.neu-gray{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 0), -1rem -1rem 2rem hsl(0 0 10);
+}
+.neu-gray-2{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 5), -1rem -1rem 2rem hsl(0 0 15);
+}
+.neu-gray-3{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 10), -1rem -1rem 2rem hsl(0 0 20);
+}
+.neu-gray-4{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 15), -1rem -1rem 2rem hsl(0 0 25);
+}
+.neu-gray-5{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 20), -1rem -1rem 2rem hsl(0 0 30);
+}
+.neu-gray-6{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 25), -1rem -1rem 2rem hsl(0 0 35);
+}
+.neu-gray-7{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 30), -1rem -1rem 2rem hsl(0 0 40);
+}
+.neu-gray-8{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 35), -1rem -1rem 2rem hsl(0 0 45);
+}
+.neu-gray-9{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 40), -1rem -1rem 2rem hsl(0 0 50);
+}
+.neu-gray-10{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 45), -1rem -1rem 2rem hsl(0 0 55);
+}
+.neu-gray-11{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 50), -1rem -1rem 2rem hsl(0 0 60);
+}
+.neu-gray-12{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 55), -1rem -1rem 2rem hsl(0 0 65);
+}
+.neu-gray-13{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 60), -1rem -1rem 2rem hsl(0 0 70);
+}
+.neu-gray-14{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 65), -1rem -1rem 2rem hsl(0 0 75);
+}
+.neu-gray-15{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 70), -1rem -1rem 2rem hsl(0 0 80);
+}
+.neu-gray-16{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 75), -1rem -1rem 2rem hsl(0 0 85);
+}
+.neu-gray-17{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 80), -1rem -1rem 2rem hsl(0 0 90);
+}
+.neu-gray-18{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 85), -1rem -1rem 2rem hsl(0 0 95);
+}
+.neu-gray-19{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 90), -1rem -1rem 2rem hsl(0 0 100);
+}
+.neu-lime{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 45), -1rem -1rem 2rem hsl(90 100 55);
+}
+.neu-lime-2{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 50), -1rem -1rem 2rem hsl(90 100 60);
+}
+.neu-lime-3{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 55), -1rem -1rem 2rem hsl(90 100 65);
+}
+.neu-lime-4{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 60), -1rem -1rem 2rem hsl(90 100 70);
+}
+.neu-lime-5{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 65), -1rem -1rem 2rem hsl(90 100 75);
+}
+.neu-lime-6{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 70), -1rem -1rem 2rem hsl(90 100 80);
+}
+.neu-lime-7{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 75), -1rem -1rem 2rem hsl(90 100 85);
+}
+.neu-lime-8{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 80), -1rem -1rem 2rem hsl(90 100 90);
+}
+.neu-lime-9{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 85), -1rem -1rem 2rem hsl(90 100 95);
+}
+.neu-lime-10{
+    box-shadow: 1rem 1rem 2rem hsl(90 95 90), -1rem -1rem 2rem hsl(90 100 100);
+}
+.neu-magenta{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 45), -1rem -1rem 2rem hsl(330 100 55);
+}
+.neu-magenta-2{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 50), -1rem -1rem 2rem hsl(330 100 60);
+}
+.neu-magenta-3{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 55), -1rem -1rem 2rem hsl(330 100 65);
+}
+.neu-magenta-4{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 60), -1rem -1rem 2rem hsl(330 100 70);
+}
+.neu-magenta-5{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 65), -1rem -1rem 2rem hsl(330 100 75);
+}
+.neu-magenta-6{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 70), -1rem -1rem 2rem hsl(330 100 80);
+}
+.neu-magenta-7{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 75), -1rem -1rem 2rem hsl(330 100 85);
+}
+.neu-magenta-8{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 80), -1rem -1rem 2rem hsl(330 100 90);
+}
+.neu-magenta-9{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 85), -1rem -1rem 2rem hsl(330 100 95);
+}
+.neu-magenta-10{
+    box-shadow: 1rem 1rem 2rem hsl(330 95 90), -1rem -1rem 2rem hsl(330 100 100);
+}
+.neu-orange{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 45), -1rem -1rem 2rem hsl(30 100 55);
+}
+.neu-orange-2{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 50), -1rem -1rem 2rem hsl(30 100 60);
+}
+.neu-orange-3{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 55), -1rem -1rem 2rem hsl(30 100 65);
+}
+.neu-orange-4{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 60), -1rem -1rem 2rem hsl(30 100 70);
+}
+.neu-orange-5{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 65), -1rem -1rem 2rem hsl(30 100 75);
+}
+.neu-orange-6{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 70), -1rem -1rem 2rem hsl(30 100 80);
+}
+.neu-orange-7{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 75), -1rem -1rem 2rem hsl(30 100 85);
+}
+.neu-orange-8{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 80), -1rem -1rem 2rem hsl(30 100 90);
+}
+.neu-orange-9{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 85), -1rem -1rem 2rem hsl(30 100 95);
+}
+.neu-orange-10{
+    box-shadow: 1rem 1rem 2rem hsl(30 95 90), -1rem -1rem 2rem hsl(30 100 100);
+}
+.neu-purple{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 45), -1rem -1rem 2rem hsl(270 100 55);
+}
+.neu-purple-2{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 50), -1rem -1rem 2rem hsl(270 100 60);
+}
+.neu-purple-3{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 55), -1rem -1rem 2rem hsl(270 100 65);
+}
+.neu-purple-4{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 60), -1rem -1rem 2rem hsl(270 100 70);
+}
+.neu-purple-5{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 65), -1rem -1rem 2rem hsl(270 100 75);
+}
+.neu-purple-6{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 70), -1rem -1rem 2rem hsl(270 100 80);
+}
+.neu-purple-7{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 75), -1rem -1rem 2rem hsl(270 100 85);
+}
+.neu-purple-8{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 80), -1rem -1rem 2rem hsl(270 100 90);
+}
+.neu-purple-9{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 85), -1rem -1rem 2rem hsl(270 100 95);
+}
+.neu-purple-10{
+    box-shadow: 1rem 1rem 2rem hsl(270 95 90), -1rem -1rem 2rem hsl(270 100 100);
+}
+.neu-red{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 45), -1rem -1rem 2rem hsl(0 100 55);
+}
+.neu-red-2{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 50), -1rem -1rem 2rem hsl(0 100 60);
+}
+.neu-red-3{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 55), -1rem -1rem 2rem hsl(0 100 65);
+}
+.neu-red-4{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 60), -1rem -1rem 2rem hsl(0 100 70);
+}
+.neu-red-5{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 65), -1rem -1rem 2rem hsl(0 100 75);
+}
+.neu-red-6{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 70), -1rem -1rem 2rem hsl(0 100 80);
+}
+.neu-red-7{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 75), -1rem -1rem 2rem hsl(0 100 85);
+}
+.neu-red-8{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 80), -1rem -1rem 2rem hsl(0 100 90);
+}
+.neu-red-9{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 85), -1rem -1rem 2rem hsl(0 100 95);
+}
+.neu-red-10{
+    box-shadow: 1rem 1rem 2rem hsl(0 95 90), -1rem -1rem 2rem hsl(0 100 100);
+}
+.neu-sky{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 45), -1rem -1rem 2rem hsl(210 100 55);
+}
+.neu-sky-2{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 50), -1rem -1rem 2rem hsl(210 100 60);
+}
+.neu-sky-3{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 55), -1rem -1rem 2rem hsl(210 100 65);
+}
+.neu-sky-4{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 60), -1rem -1rem 2rem hsl(210 100 70);
+}
+.neu-sky-5{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 65), -1rem -1rem 2rem hsl(210 100 75);
+}
+.neu-sky-6{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 70), -1rem -1rem 2rem hsl(210 100 80);
+}
+.neu-sky-7{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 75), -1rem -1rem 2rem hsl(210 100 85);
+}
+.neu-sky-8{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 80), -1rem -1rem 2rem hsl(210 100 90);
+}
+.neu-sky-9{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 85), -1rem -1rem 2rem hsl(210 100 95);
+}
+.neu-sky-10{
+    box-shadow: 1rem 1rem 2rem hsl(210 95 90), -1rem -1rem 2rem hsl(210 100 100);
+}
+.neu-springgreen{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 45), -1rem -1rem 2rem hsl(150 100 55);
+}
+.neu-springgreen-2{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 50), -1rem -1rem 2rem hsl(150 100 60);
+}
+.neu-springgreen-3{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 55), -1rem -1rem 2rem hsl(150 100 65);
+}
+.neu-springgreen-4{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 60), -1rem -1rem 2rem hsl(150 100 70);
+}
+.neu-springgreen-5{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 65), -1rem -1rem 2rem hsl(150 100 75);
+}
+.neu-springgreen-6{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 70), -1rem -1rem 2rem hsl(150 100 80);
+}
+.neu-springgreen-7{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 75), -1rem -1rem 2rem hsl(150 100 85);
+}
+.neu-springgreen-8{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 80), -1rem -1rem 2rem hsl(150 100 90);
+}
+.neu-springgreen-9{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 85), -1rem -1rem 2rem hsl(150 100 95);
+}
+.neu-springgreen-10{
+    box-shadow: 1rem 1rem 2rem hsl(150 95 90), -1rem -1rem 2rem hsl(150 100 100);
+}
+.neu-white{
+    box-shadow: 1rem 1rem 2rem hsl(0 0 95), -1rem -1rem 2rem hsl(0 0 100);
+}
+.neu-yellow{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 45), -1rem -1rem 2rem hsl(60 100 55);
+}
+.neu-yellow-2{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 50), -1rem -1rem 2rem hsl(60 100 60);
+}
+.neu-yellow-3{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 55), -1rem -1rem 2rem hsl(60 100 65);
+}
+.neu-yellow-4{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 60), -1rem -1rem 2rem hsl(60 100 70);
+}
+.neu-yellow-5{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 65), -1rem -1rem 2rem hsl(60 100 75);
+}
+.neu-yellow-6{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 70), -1rem -1rem 2rem hsl(60 100 80);
+}
+.neu-yellow-7{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 75), -1rem -1rem 2rem hsl(60 100 85);
+}
+.neu-yellow-8{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 80), -1rem -1rem 2rem hsl(60 100 90);
+}
+.neu-yellow-9{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 85), -1rem -1rem 2rem hsl(60 100 95);
+}
+.neu-yellow-10{
+    box-shadow: 1rem 1rem 2rem hsl(60 95 90), -1rem -1rem 2rem hsl(60 100 100);
+}
+.neu-i-black{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 0), inset -1rem -1rem 2rem hsl(0 0 5);
+}
+.neu-i-blue{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 45), inset -1rem -1rem 2rem hsl(240 100 55);
+}
+.neu-i-blue-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 50), inset -1rem -1rem 2rem hsl(240 100 60);
+}
+.neu-i-blue-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 55), inset -1rem -1rem 2rem hsl(240 100 65);
+}
+.neu-i-blue-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 60), inset -1rem -1rem 2rem hsl(240 100 70);
+}
+.neu-i-blue-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 65), inset -1rem -1rem 2rem hsl(240 100 75);
+}
+.neu-i-blue-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 70), inset -1rem -1rem 2rem hsl(240 100 80);
+}
+.neu-i-blue-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 75), inset -1rem -1rem 2rem hsl(240 100 85);
+}
+.neu-i-blue-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 80), inset -1rem -1rem 2rem hsl(240 100 90);
+}
+.neu-i-blue-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 85), inset -1rem -1rem 2rem hsl(240 100 95);
+}
+.neu-i-blue-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(240 95 90), inset -1rem -1rem 2rem hsl(240 100 100);
+}
+.neu-i-cyan{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 45), inset -1rem -1rem 2rem hsl(180 100 55);
+}
+.neu-i-cyan-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 50), inset -1rem -1rem 2rem hsl(180 100 60);
+}
+.neu-i-cyan-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 55), inset -1rem -1rem 2rem hsl(180 100 65);
+}
+.neu-i-cyan-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 60), inset -1rem -1rem 2rem hsl(180 100 70);
+}
+.neu-i-cyan-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 65), inset -1rem -1rem 2rem hsl(180 100 75);
+}
+.neu-i-cyan-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 70), inset -1rem -1rem 2rem hsl(180 100 80);
+}
+.neu-i-cyan-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 75), inset -1rem -1rem 2rem hsl(180 100 85);
+}
+.neu-i-cyan-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 80), inset -1rem -1rem 2rem hsl(180 100 90);
+}
+.neu-i-cyan-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 85), inset -1rem -1rem 2rem hsl(180 100 95);
+}
+.neu-i-cyan-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(180 95 90), inset -1rem -1rem 2rem hsl(180 100 100);
+}
+.neu-i-fuchsia{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 45), inset -1rem -1rem 2rem hsl(300 100 55);
+}
+.neu-i-fuchsia-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 50), inset -1rem -1rem 2rem hsl(300 100 60);
+}
+.neu-i-fuchsia-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 55), inset -1rem -1rem 2rem hsl(300 100 65);
+}
+.neu-i-fuchsia-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 60), inset -1rem -1rem 2rem hsl(300 100 70);
+}
+.neu-i-fuchsia-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 65), inset -1rem -1rem 2rem hsl(300 100 75);
+}
+.neu-i-fuchsia-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 70), inset -1rem -1rem 2rem hsl(300 100 80);
+}
+.neu-i-fuchsia-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 75), inset -1rem -1rem 2rem hsl(300 100 85);
+}
+.neu-i-fuchsia-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 80), inset -1rem -1rem 2rem hsl(300 100 90);
+}
+.neu-i-fuchsia-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 85), inset -1rem -1rem 2rem hsl(300 100 95);
+}
+.neu-i-fuchsia-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(300 95 90), inset -1rem -1rem 2rem hsl(300 100 100);
+}
+.neu-i-green{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 45), inset -1rem -1rem 2rem hsl(120 100 55);
+}
+.neu-i-green-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 50), inset -1rem -1rem 2rem hsl(120 100 60);
+}
+.neu-i-green-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 55), inset -1rem -1rem 2rem hsl(120 100 65);
+}
+.neu-i-green-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 60), inset -1rem -1rem 2rem hsl(120 100 70);
+}
+.neu-i-green-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 65), inset -1rem -1rem 2rem hsl(120 100 75);
+}
+.neu-i-green-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 70), inset -1rem -1rem 2rem hsl(120 100 80);
+}
+.neu-i-green-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 75), inset -1rem -1rem 2rem hsl(120 100 85);
+}
+.neu-i-green-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 80), inset -1rem -1rem 2rem hsl(120 100 90);
+}
+.neu-i-green-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 85), inset -1rem -1rem 2rem hsl(120 100 95);
+}
+.neu-i-green-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(120 95 90), inset -1rem -1rem 2rem hsl(120 100 100);
+}
+.neu-i-gray{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 0), inset -1rem -1rem 2rem hsl(0 0 10);
+}
+.neu-i-gray-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 5), inset -1rem -1rem 2rem hsl(0 0 15);
+}
+.neu-i-gray-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 10), inset -1rem -1rem 2rem hsl(0 0 20);
+}
+.neu-i-gray-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 15), inset -1rem -1rem 2rem hsl(0 0 25);
+}
+.neu-i-gray-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 20), inset -1rem -1rem 2rem hsl(0 0 30);
+}
+.neu-i-gray-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 25), inset -1rem -1rem 2rem hsl(0 0 35);
+}
+.neu-i-gray-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 30), inset -1rem -1rem 2rem hsl(0 0 40);
+}
+.neu-i-gray-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 35), inset -1rem -1rem 2rem hsl(0 0 45);
+}
+.neu-i-gray-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 40), inset -1rem -1rem 2rem hsl(0 0 50);
+}
+.neu-i-gray-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 45), inset -1rem -1rem 2rem hsl(0 0 55);
+}
+.neu-i-gray-11{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 50), inset -1rem -1rem 2rem hsl(0 0 60);
+}
+.neu-i-gray-12{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 55), inset -1rem -1rem 2rem hsl(0 0 65);
+}
+.neu-i-gray-13{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 60), inset -1rem -1rem 2rem hsl(0 0 70);
+}
+.neu-i-gray-14{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 65), inset -1rem -1rem 2rem hsl(0 0 75);
+}
+.neu-i-gray-15{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 70), inset -1rem -1rem 2rem hsl(0 0 80);
+}
+.neu-i-gray-16{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 75), inset -1rem -1rem 2rem hsl(0 0 85);
+}
+.neu-i-gray-17{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 80), inset -1rem -1rem 2rem hsl(0 0 90);
+}
+.neu-i-gray-18{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 85), inset -1rem -1rem 2rem hsl(0 0 95);
+}
+.neu-i-gray-19{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 90), inset -1rem -1rem 2rem hsl(0 0 100);
+}
+.neu-i-lime{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 45), inset -1rem -1rem 2rem hsl(90 100 55);
+}
+.neu-i-lime-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 50), inset -1rem -1rem 2rem hsl(90 100 60);
+}
+.neu-i-lime-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 55), inset -1rem -1rem 2rem hsl(90 100 65);
+}
+.neu-i-lime-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 60), inset -1rem -1rem 2rem hsl(90 100 70);
+}
+.neu-i-lime-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 65), inset -1rem -1rem 2rem hsl(90 100 75);
+}
+.neu-i-lime-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 70), inset -1rem -1rem 2rem hsl(90 100 80);
+}
+.neu-i-lime-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 75), inset -1rem -1rem 2rem hsl(90 100 85);
+}
+.neu-i-lime-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 80), inset -1rem -1rem 2rem hsl(90 100 90);
+}
+.neu-i-lime-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 85), inset -1rem -1rem 2rem hsl(90 100 95);
+}
+.neu-i-lime-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(90 95 90), inset -1rem -1rem 2rem hsl(90 100 100);
+}
+.neu-i-magenta{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 45), inset -1rem -1rem 2rem hsl(330 100 55);
+}
+.neu-i-magenta-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 50), inset -1rem -1rem 2rem hsl(330 100 60);
+}
+.neu-i-magenta-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 55), inset -1rem -1rem 2rem hsl(330 100 65);
+}
+.neu-i-magenta-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 60), inset -1rem -1rem 2rem hsl(330 100 70);
+}
+.neu-i-magenta-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 65), inset -1rem -1rem 2rem hsl(330 100 75);
+}
+.neu-i-magenta-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 70), inset -1rem -1rem 2rem hsl(330 100 80);
+}
+.neu-i-magenta-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 75), inset -1rem -1rem 2rem hsl(330 100 85);
+}
+.neu-i-magenta-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 80), inset -1rem -1rem 2rem hsl(330 100 90);
+}
+.neu-i-magenta-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 85), inset -1rem -1rem 2rem hsl(330 100 95);
+}
+.neu-i-magenta-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(330 95 90), inset -1rem -1rem 2rem hsl(330 100 100);
+}
+.neu-i-orange{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 45), inset -1rem -1rem 2rem hsl(30 100 55);
+}
+.neu-i-orange-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 50), inset -1rem -1rem 2rem hsl(30 100 60);
+}
+.neu-i-orange-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 55), inset -1rem -1rem 2rem hsl(30 100 65);
+}
+.neu-i-orange-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 60), inset -1rem -1rem 2rem hsl(30 100 70);
+}
+.neu-i-orange-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 65), inset -1rem -1rem 2rem hsl(30 100 75);
+}
+.neu-i-orange-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 70), inset -1rem -1rem 2rem hsl(30 100 80);
+}
+.neu-i-orange-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 75), inset -1rem -1rem 2rem hsl(30 100 85);
+}
+.neu-i-orange-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 80), inset -1rem -1rem 2rem hsl(30 100 90);
+}
+.neu-i-orange-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 85), inset -1rem -1rem 2rem hsl(30 100 95);
+}
+.neu-i-orange-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(30 95 90), inset -1rem -1rem 2rem hsl(30 100 100);
+}
+.neu-i-purple{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 45), inset -1rem -1rem 2rem hsl(270 100 55);
+}
+.neu-i-purple-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 50), inset -1rem -1rem 2rem hsl(270 100 60);
+}
+.neu-i-purple-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 55), inset -1rem -1rem 2rem hsl(270 100 65);
+}
+.neu-i-purple-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 60), inset -1rem -1rem 2rem hsl(270 100 70);
+}
+.neu-i-purple-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 65), inset -1rem -1rem 2rem hsl(270 100 75);
+}
+.neu-i-purple-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 70), inset -1rem -1rem 2rem hsl(270 100 80);
+}
+.neu-i-purple-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 75), inset -1rem -1rem 2rem hsl(270 100 85);
+}
+.neu-i-purple-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 80), inset -1rem -1rem 2rem hsl(270 100 90);
+}
+.neu-i-purple-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 85), inset -1rem -1rem 2rem hsl(270 100 95);
+}
+.neu-i-purple-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(270 95 90), inset -1rem -1rem 2rem hsl(270 100 100);
+}
+.neu-i-red{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 45), inset -1rem -1rem 2rem hsl(0 100 55);
+}
+.neu-i-red-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 50), inset -1rem -1rem 2rem hsl(0 100 60);
+}
+.neu-i-red-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 55), inset -1rem -1rem 2rem hsl(0 100 65);
+}
+.neu-i-red-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 60), inset -1rem -1rem 2rem hsl(0 100 70);
+}
+.neu-i-red-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 65), inset -1rem -1rem 2rem hsl(0 100 75);
+}
+.neu-i-red-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 70), inset -1rem -1rem 2rem hsl(0 100 80);
+}
+.neu-i-red-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 75), inset -1rem -1rem 2rem hsl(0 100 85);
+}
+.neu-i-red-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 80), inset -1rem -1rem 2rem hsl(0 100 90);
+}
+.neu-i-red-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 85), inset -1rem -1rem 2rem hsl(0 100 95);
+}
+.neu-i-red-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 95 90), inset -1rem -1rem 2rem hsl(0 100 100);
+}
+.neu-i-sky{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 45), inset -1rem -1rem 2rem hsl(210 100 55);
+}
+.neu-i-sky-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 50), inset -1rem -1rem 2rem hsl(210 100 60);
+}
+.neu-i-sky-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 55), inset -1rem -1rem 2rem hsl(210 100 65);
+}
+.neu-i-sky-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 60), inset -1rem -1rem 2rem hsl(210 100 70);
+}
+.neu-i-sky-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 65), inset -1rem -1rem 2rem hsl(210 100 75);
+}
+.neu-i-sky-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 70), inset -1rem -1rem 2rem hsl(210 100 80);
+}
+.neu-i-sky-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 75), inset -1rem -1rem 2rem hsl(210 100 85);
+}
+.neu-i-sky-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 80), inset -1rem -1rem 2rem hsl(210 100 90);
+}
+.neu-i-sky-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 85), inset -1rem -1rem 2rem hsl(210 100 95);
+}
+.neu-i-sky-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(210 95 90), inset -1rem -1rem 2rem hsl(210 100 100);
+}
+.neu-i-springgreen{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 45), inset -1rem -1rem 2rem hsl(150 100 55);
+}
+.neu-i-springgreen-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 50), inset -1rem -1rem 2rem hsl(150 100 60);
+}
+.neu-i-springgreen-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 55), inset -1rem -1rem 2rem hsl(150 100 65);
+}
+.neu-i-springgreen-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 60), inset -1rem -1rem 2rem hsl(150 100 70);
+}
+.neu-i-springgreen-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 65), inset -1rem -1rem 2rem hsl(150 100 75);
+}
+.neu-i-springgreen-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 70), inset -1rem -1rem 2rem hsl(150 100 80);
+}
+.neu-i-springgreen-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 75), inset -1rem -1rem 2rem hsl(150 100 85);
+}
+.neu-i-springgreen-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 80), inset -1rem -1rem 2rem hsl(150 100 90);
+}
+.neu-i-springgreen-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 85), inset -1rem -1rem 2rem hsl(150 100 95);
+}
+.neu-i-springgreen-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(150 95 90), inset -1rem -1rem 2rem hsl(150 100 100);
+}
+.neu-i-white{
+    box-shadow: inset 1rem 1rem 2rem hsl(0 0 95), inset -1rem -1rem 2rem hsl(0 0 100);
+}
+.neu-i-yellow{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 45), inset -1rem -1rem 2rem hsl(60 100 55);
+}
+.neu-i-yellow-2{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 50), inset -1rem -1rem 2rem hsl(60 100 60);
+}
+.neu-i-yellow-3{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 55), inset -1rem -1rem 2rem hsl(60 100 65);
+}
+.neu-i-yellow-4{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 60), inset -1rem -1rem 2rem hsl(60 100 70);
+}
+.neu-i-yellow-5{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 65), inset -1rem -1rem 2rem hsl(60 100 75);
+}
+.neu-i-yellow-6{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 70), inset -1rem -1rem 2rem hsl(60 100 80);
+}
+.neu-i-yellow-7{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 75), inset -1rem -1rem 2rem hsl(60 100 85);
+}
+.neu-i-yellow-8{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 80), inset -1rem -1rem 2rem hsl(60 100 90);
+}
+.neu-i-yellow-9{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 85), inset -1rem -1rem 2rem hsl(60 100 95);
+}
+.neu-i-yellow-10{
+    box-shadow: inset 1rem 1rem 2rem hsl(60 95 90), inset -1rem -1rem 2rem hsl(60 100 100);
 }
