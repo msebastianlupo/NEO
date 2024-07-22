@@ -3936,6 +3936,96 @@
 .actsha-t-3:active{
     box-shadow: 0 -3rem 3rem hsl(0 0 0 / 0.1);
 }
+.actsha-i-0-5:active{
+    box-shadow: inset 0 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-1:active{
+    box-shadow: inset 0 0 1rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-1-5:active{
+    box-shadow: inset 0 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-2:active{
+    box-shadow: inset 0 0 2rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-2-5:active{
+    box-shadow: inset 0 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-3:active{
+    box-shadow: inset 0 0 3rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-b-0-5:active{
+    box-shadow: inset 0 -0.5rem 0.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-b-1:active{
+    box-shadow: inset 0 -1rem 1rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-b-1-5:active{
+    box-shadow: inset 0 -1.5rem 1.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-b-2:active{
+    box-shadow: inset 0 -2rem 2rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-b-2-5:active{
+    box-shadow: inset 0 -2.5rem 2.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-b-3:active{
+    box-shadow: inset 0 -3rem 3rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-l-0-5:active{
+    box-shadow: inset 0.5rem 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-l-1:active{
+    box-shadow: inset 1rem 0 1rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-l-1-5:active{
+    box-shadow: inset 1.5rem 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-l-2:active{
+    box-shadow: inset 2rem 0 2rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-l-2-5:active{
+    box-shadow: inset 2.5rem 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-l-3:active{
+    box-shadow: inset 3rem 0 3rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-r-0-5:active{
+    box-shadow: inset -0.5rem 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-r-1:active{
+    box-shadow: inset -1rem 0 1rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-r-1-5:active{
+    box-shadow: inset -1.5rem 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-r-2:active{
+    box-shadow: inset -2rem 0 2rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-r-2-5:active{
+    box-shadow: inset -2.5rem 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-r-3:active{
+    box-shadow: inset -3rem 0 3rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-t-0-5:active{
+    box-shadow: inset 0 0.5rem 0.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-t-1:active{
+    box-shadow: inset 0 1rem 1rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-t-1-5:active{
+    box-shadow: inset 0 1.5rem 1.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-t-2:active{
+    box-shadow: inset 0 2rem 2rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-t-2-5:active{
+    box-shadow: inset 0 2.5rem 2.5rem hsl(0 0 0 / 0.1);
+}
+.actsha-i-t-3:active{
+    box-shadow: inset 0 3rem 3rem hsl(0 0 0 / 0.1);
+}
 
 /* border color bottom | bcb */
 .bcb-black{
@@ -10850,6 +10940,96 @@
 .hovsha-t-3:hover{
     box-shadow: 0 -3rem 3rem hsl(0 0 0 / 0.1);
 }
+.hovsha-i-0-5:hover{
+    box-shadow: inset 0 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-1:hover{
+    box-shadow: inset 0 0 1rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-1-5:hover{
+    box-shadow: inset 0 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-2:hover{
+    box-shadow: inset 0 0 2rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-2-5:hover{
+    box-shadow: inset 0 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-3:hover{
+    box-shadow: inset 0 0 3rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-b-0-5:hover{
+    box-shadow: inset 0 -0.5rem 0.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-b-1:hover{
+    box-shadow: inset 0 -1rem 1rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-b-1-5:hover{
+    box-shadow: inset 0 -1.5rem 1.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-b-2:hover{
+    box-shadow: inset 0 -2rem 2rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-b-2-5:hover{
+    box-shadow: inset 0 -2.5rem 2.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-b-3:hover{
+    box-shadow: inset 0 -3rem 3rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-l-0-5:hover{
+    box-shadow: inset 0.5rem 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-l-1:hover{
+    box-shadow: inset 1rem 0 1rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-l-1-5:hover{
+    box-shadow: inset 1.5rem 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-l-2:hover{
+    box-shadow: inset 2rem 0 2rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-l-2-5:hover{
+    box-shadow: inset 2.5rem 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-l-3:hover{
+    box-shadow: inset 3rem 0 3rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-r-0-5:hover{
+    box-shadow: inset -0.5rem 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-r-1:hover{
+    box-shadow: inset -1rem 0 1rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-r-1-5:hover{
+    box-shadow: inset -1.5rem 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-r-2:hover{
+    box-shadow: inset -2rem 0 2rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-r-2-5:hover{
+    box-shadow: inset -2.5rem 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-r-3:hover{
+    box-shadow: inset -3rem 0 3rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-t-0-5:hover{
+    box-shadow: inset 0 0.5rem 0.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-t-1:hover{
+    box-shadow: inset 0 1rem 1rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-t-1-5:hover{
+    box-shadow: inset 0 1.5rem 1.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-t-2:hover{
+    box-shadow: inset 0 2rem 2rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-t-2-5:hover{
+    box-shadow: inset 0 2.5rem 2.5rem hsl(0 0 0 / 0.1);
+}
+.hovsha-i-t-3:hover{
+    box-shadow: inset 0 3rem 3rem hsl(0 0 0 / 0.1);
+}
 
 /* neumorphism | neu */
 .neu-black{
@@ -11789,4 +11969,94 @@
 }
 .sha-t-3{
     box-shadow: 0 -3rem 3rem hsl(0 0 0 / 0.1);
+}
+.sha-i-0-5{
+    box-shadow: inset 0 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-1{
+    box-shadow: inset 0 0 1rem hsl(0 0 0 / 0.1);
+}
+.sha-i-1-5{
+    box-shadow: inset 0 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-2{
+    box-shadow: inset 0 0 2rem hsl(0 0 0 / 0.1);
+}
+.sha-i-2-5{
+    box-shadow: inset 0 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-3{
+    box-shadow: inset 0 0 3rem hsl(0 0 0 / 0.1);
+}
+.sha-i-b-0-5{
+    box-shadow: inset 0 -0.5rem 0.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-b-1{
+    box-shadow: inset 0 -1rem 1rem hsl(0 0 0 / 0.1);
+}
+.sha-i-b-1-5{
+    box-shadow: inset 0 -1.5rem 1.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-b-2{
+    box-shadow: inset 0 -2rem 2rem hsl(0 0 0 / 0.1);
+}
+.sha-i-b-2-5{
+    box-shadow: inset 0 -2.5rem 2.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-b-3{
+    box-shadow: inset 0 -3rem 3rem hsl(0 0 0 / 0.1);
+}
+.sha-i-l-0-5{
+    box-shadow: inset 0.5rem 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-l-1{
+    box-shadow: inset 1rem 0 1rem hsl(0 0 0 / 0.1);
+}
+.sha-i-l-1-5{
+    box-shadow: inset 1.5rem 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-l-2{
+    box-shadow: inset 2rem 0 2rem hsl(0 0 0 / 0.1);
+}
+.sha-i-l-2-5{
+    box-shadow: inset 2.5rem 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-l-3{
+    box-shadow: inset 3rem 0 3rem hsl(0 0 0 / 0.1);
+}
+.sha-i-r-0-5{
+    box-shadow: inset -0.5rem 0 0.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-r-1{
+    box-shadow: inset -1rem 0 1rem hsl(0 0 0 / 0.1);
+}
+.sha-i-r-1-5{
+    box-shadow: inset -1.5rem 0 1.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-r-2{
+    box-shadow: inset -2rem 0 2rem hsl(0 0 0 / 0.1);
+}
+.sha-i-r-2-5{
+    box-shadow: inset -2.5rem 0 2.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-r-3{
+    box-shadow: inset -3rem 0 3rem hsl(0 0 0 / 0.1);
+}
+.sha-i-t-0-5{
+    box-shadow: inset 0 0.5rem 0.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-t-1{
+    box-shadow: inset 0 1rem 1rem hsl(0 0 0 / 0.1);
+}
+.sha-i-t-1-5{
+    box-shadow: inset 0 1.5rem 1.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-t-2{
+    box-shadow: inset 0 2rem 2rem hsl(0 0 0 / 0.1);
+}
+.sha-i-t-2-5{
+    box-shadow: inset 0 2.5rem 2.5rem hsl(0 0 0 / 0.1);
+}
+.sha-i-t-3{
+    box-shadow: inset 0 3rem 3rem hsl(0 0 0 / 0.1);
 }
