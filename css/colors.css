@@ -847,6 +847,9 @@
 }
 
 /* active shadow | actsha */
+.actsha-0-5:active{
+    box-shadow: 0 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .actsha-1:active{
     box-shadow: 0 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -861,6 +864,9 @@
 }
 .actsha-3:active{
     box-shadow: 0 0 3rem hsl(0 0 0 / 0.1)
+}
+.actsha-b-0-5:active{
+    box-shadow: 0 0.5rem 0.5rem hsl(0 0 0 / 0.1)
 }
 .actsha-b-1:active{
     box-shadow: 0 1rem 1rem hsl(0 0 0 / 0.1)
@@ -877,6 +883,9 @@
 .actsha-b-3:active{
     box-shadow: 0 3rem 3rem hsl(0 0 0 / 0.1)
 }
+.actsha-l-0-5:active{
+    box-shadow: -0.5rem 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .actsha-l-1:active{
     box-shadow: -1rem 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -892,6 +901,9 @@
 .actsha-l-3:active{
     box-shadow: -3rem 0 3rem hsl(0 0 0 / 0.1)
 }
+.actsha-r-0-5:active{
+    box-shadow: 0.5rem 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .actsha-r-1:active{
     box-shadow: 1rem 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -906,6 +918,9 @@
 }
 .actsha-r-3:active{
     box-shadow: 3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.actsha-t-0-5:active{
+    box-shadow: 0 -0.5rem 0.5rem hsl(0 0 0 / 0.1)
 }
 .actsha-t-1:active{
     box-shadow: 0 -1rem 1rem hsl(0 0 0 / 0.1)
@@ -7722,6 +7737,9 @@
 }
 
 /* hover shadow | hovsha */
+.hovsha-0-5:hover{
+    box-shadow: 0 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .hovsha-1:hover{
     box-shadow: 0 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -7736,6 +7754,9 @@
 }
 .hovsha-3:hover{
     box-shadow: 0 0 3rem hsl(0 0 0 / 0.1)
+}
+.hovsha-b-0-5:hover{
+    box-shadow: 0 0.5rem 0.5rem hsl(0 0 0 / 0.1)
 }
 .hovsha-b-1:hover{
     box-shadow: 0 1rem 1rem hsl(0 0 0 / 0.1)
@@ -7752,6 +7773,9 @@
 .hovsha-b-3:hover{
     box-shadow: 0 3rem 3rem hsl(0 0 0 / 0.1)
 }
+.hovsha-l-0-5:hover{
+    box-shadow: -0.5rem 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .hovsha-l-1:hover{
     box-shadow: -1rem 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -7767,6 +7791,9 @@
 .hovsha-l-3:hover{
     box-shadow: -3rem 0 3rem hsl(0 0 0 / 0.1)
 }
+.hovsha-r-0-5:hover{
+    box-shadow: 0.5rem 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .hovsha-r-1:hover{
     box-shadow: 1rem 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -7781,6 +7808,9 @@
 }
 .hovsha-r-3:hover{
     box-shadow: 3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.hovsha-t-0-5:hover{
+    box-shadow: 0 -0.5rem 0.5rem hsl(0 0 0 / 0.1)
 }
 .hovsha-t-1:hover{
     box-shadow: 0 -1rem 1rem hsl(0 0 0 / 0.1)
@@ -8647,6 +8677,9 @@
 }
 
 /* shadow | sha */
+.sha-0-5{
+    box-shadow: 0 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .sha-1{
     box-shadow: 0 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -8661,6 +8694,9 @@
 }
 .sha-3{
     box-shadow: 0 0 3rem hsl(0 0 0 / 0.1)
+}
+.sha-b-0-5{
+    box-shadow: 0 0.5rem 0.5rem hsl(0 0 0 / 0.1)
 }
 .sha-b-1{
     box-shadow: 0 1rem 1rem hsl(0 0 0 / 0.1)
@@ -8677,6 +8713,9 @@
 .sha-b-3{
     box-shadow: 0 3rem 3rem hsl(0 0 0 / 0.1)
 }
+.sha-l-0-5{
+    box-shadow: -0.5rem 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .sha-l-1{
     box-shadow: -1rem 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -8692,6 +8731,9 @@
 .sha-l-3{
     box-shadow: -3rem 0 3rem hsl(0 0 0 / 0.1)
 }
+.sha-r-0-5{
+    box-shadow: 0.5rem 0 0.5rem hsl(0 0 0 / 0.1)
+}
 .sha-r-1{
     box-shadow: 1rem 0 1rem hsl(0 0 0 / 0.1)
 }
@@ -8706,6 +8748,9 @@
 }
 .sha-r-3{
     box-shadow: 3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.sha-t-0-5{
+    box-shadow: 0 -0.5rem 0.5rem hsl(0 0 0 / 0.1)
 }
 .sha-t-1{
     box-shadow: 0 -1rem 1rem hsl(0 0 0 / 0.1)
