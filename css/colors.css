@@ -846,6 +846,82 @@
     box-shadow: inset 1rem 1rem 2rem hsl(60 95 90), inset -1rem -1rem 2rem hsl(60 100 100);
 }
 
+/* active shadow | actsha */
+.actsha-1:active{
+    box-shadow: 0 0 1rem hsl(0 0 0 / 0.1)
+}
+.actsha-1-5:active{
+    box-shadow: 0 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-2:active{
+    box-shadow: 0 0 2rem hsl(0 0 0 / 0.1)
+}
+.actsha-2-5:active{
+    box-shadow: 0 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-3:active{
+    box-shadow: 0 0 3rem hsl(0 0 0 / 0.1)
+}
+.actsha-b-1:active{
+    box-shadow: 0 1rem 1rem hsl(0 0 0 / 0.1)
+}
+.actsha-b-1-5:active{
+    box-shadow: 0 1.5rem 1.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-b-2:active{
+    box-shadow: 0 2rem 2rem hsl(0 0 0 / 0.1)
+}
+.actsha-b-2-5:active{
+    box-shadow: 0 2.5rem 2.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-b-3:active{
+    box-shadow: 0 3rem 3rem hsl(0 0 0 / 0.1)
+}
+.actsha-l-1:active{
+    box-shadow: -1rem 0 1rem hsl(0 0 0 / 0.1)
+}
+.actsha-l-1-5:active{
+    box-shadow: -1.5rem 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-l-2:active{
+    box-shadow: -2rem 0 2rem hsl(0 0 0 / 0.1)
+}
+.actsha-l-2-5:active{
+    box-shadow: -2.5rem 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-l-3:active{
+    box-shadow: -3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.actsha-r-1:active{
+    box-shadow: 1rem 0 1rem hsl(0 0 0 / 0.1)
+}
+.actsha-r-1-5:active{
+    box-shadow: 1.5rem 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-r-2:active{
+    box-shadow: 2rem 0 2rem hsl(0 0 0 / 0.1)
+}
+.actsha-r-2-5:active{
+    box-shadow: 2.5rem 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-r-3:active{
+    box-shadow: 3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.actsha-t-1:active{
+    box-shadow: 0 -1rem 1rem hsl(0 0 0 / 0.1)
+}
+.actsha-t-1-5:active{
+    box-shadow: 0 -1.5rem 1.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-t-2:active{
+    box-shadow: 0 -2rem 2rem hsl(0 0 0 / 0.1)
+}
+.actsha-t-2-5:active{
+    box-shadow: 0 -2.5rem 2.5rem hsl(0 0 0 / 0.1)
+}
+.actsha-t-3:active{
+    box-shadow: 0 -3rem 3rem hsl(0 0 0 / 0.1)
+}
 
 /* border color bottom | bcb */
 .bcb-black{
@@ -7645,6 +7721,83 @@
     box-shadow: inset 1rem 1rem 2rem hsl(60 95 90), inset -1rem -1rem 2rem hsl(60 100 100);
 }
 
+/* hover shadow | hovsha */
+.hovsha-1:hover{
+    box-shadow: 0 0 1rem hsl(0 0 0 / 0.1)
+}
+.hovsha-1-5:hover{
+    box-shadow: 0 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-2:hover{
+    box-shadow: 0 0 2rem hsl(0 0 0 / 0.1)
+}
+.hovsha-2-5:hover{
+    box-shadow: 0 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-3:hover{
+    box-shadow: 0 0 3rem hsl(0 0 0 / 0.1)
+}
+.hovsha-b-1:hover{
+    box-shadow: 0 1rem 1rem hsl(0 0 0 / 0.1)
+}
+.hovsha-b-1-5:hover{
+    box-shadow: 0 1.5rem 1.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-b-2:hover{
+    box-shadow: 0 2rem 2rem hsl(0 0 0 / 0.1)
+}
+.hovsha-b-2-5:hover{
+    box-shadow: 0 2.5rem 2.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-b-3:hover{
+    box-shadow: 0 3rem 3rem hsl(0 0 0 / 0.1)
+}
+.hovsha-l-1:hover{
+    box-shadow: -1rem 0 1rem hsl(0 0 0 / 0.1)
+}
+.hovsha-l-1-5:hover{
+    box-shadow: -1.5rem 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-l-2:hover{
+    box-shadow: -2rem 0 2rem hsl(0 0 0 / 0.1)
+}
+.hovsha-l-2-5:hover{
+    box-shadow: -2.5rem 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-l-3:hover{
+    box-shadow: -3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.hovsha-r-1:hover{
+    box-shadow: 1rem 0 1rem hsl(0 0 0 / 0.1)
+}
+.hovsha-r-1-5:hover{
+    box-shadow: 1.5rem 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-r-2:hover{
+    box-shadow: 2rem 0 2rem hsl(0 0 0 / 0.1)
+}
+.hovsha-r-2-5:hover{
+    box-shadow: 2.5rem 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-r-3:hover{
+    box-shadow: 3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.hovsha-t-1:hover{
+    box-shadow: 0 -1rem 1rem hsl(0 0 0 / 0.1)
+}
+.hovsha-t-1-5:hover{
+    box-shadow: 0 -1.5rem 1.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-t-2:hover{
+    box-shadow: 0 -2rem 2rem hsl(0 0 0 / 0.1)
+}
+.hovsha-t-2-5:hover{
+    box-shadow: 0 -2.5rem 2.5rem hsl(0 0 0 / 0.1)
+}
+.hovsha-t-3:hover{
+    box-shadow: 0 -3rem 3rem hsl(0 0 0 / 0.1)
+}
+
 /* neumorphism | neu */
 .neu-black{
     box-shadow: 1rem 1rem 2rem hsl(0 0 0), -1rem -1rem 2rem hsl(0 0 5);
@@ -8491,4 +8644,81 @@
 }
 .neu-i-yellow-10{
     box-shadow: inset 1rem 1rem 2rem hsl(60 95 90), inset -1rem -1rem 2rem hsl(60 100 100);
+}
+
+/* shadow | sha */
+.sha-1{
+    box-shadow: 0 0 1rem hsl(0 0 0 / 0.1)
+}
+.sha-1-5{
+    box-shadow: 0 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.sha-2{
+    box-shadow: 0 0 2rem hsl(0 0 0 / 0.1)
+}
+.sha-2-5{
+    box-shadow: 0 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.sha-3{
+    box-shadow: 0 0 3rem hsl(0 0 0 / 0.1)
+}
+.sha-b-1{
+    box-shadow: 0 1rem 1rem hsl(0 0 0 / 0.1)
+}
+.sha-b-1-5{
+    box-shadow: 0 1.5rem 1.5rem hsl(0 0 0 / 0.1)
+}
+.sha-b-2{
+    box-shadow: 0 2rem 2rem hsl(0 0 0 / 0.1)
+}
+.sha-b-2-5{
+    box-shadow: 0 2.5rem 2.5rem hsl(0 0 0 / 0.1)
+}
+.sha-b-3{
+    box-shadow: 0 3rem 3rem hsl(0 0 0 / 0.1)
+}
+.sha-l-1{
+    box-shadow: -1rem 0 1rem hsl(0 0 0 / 0.1)
+}
+.sha-l-1-5{
+    box-shadow: -1.5rem 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.sha-l-2{
+    box-shadow: -2rem 0 2rem hsl(0 0 0 / 0.1)
+}
+.sha-l-2-5{
+    box-shadow: -2.5rem 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.sha-l-3{
+    box-shadow: -3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.sha-r-1{
+    box-shadow: 1rem 0 1rem hsl(0 0 0 / 0.1)
+}
+.sha-r-1-5{
+    box-shadow: 1.5rem 0 1.5rem hsl(0 0 0 / 0.1)
+}
+.sha-r-2{
+    box-shadow: 2rem 0 2rem hsl(0 0 0 / 0.1)
+}
+.sha-r-2-5{
+    box-shadow: 2.5rem 0 2.5rem hsl(0 0 0 / 0.1)
+}
+.sha-r-3{
+    box-shadow: 3rem 0 3rem hsl(0 0 0 / 0.1)
+}
+.sha-t-1{
+    box-shadow: 0 -1rem 1rem hsl(0 0 0 / 0.1)
+}
+.sha-t-1-5{
+    box-shadow: 0 -1.5rem 1.5rem hsl(0 0 0 / 0.1)
+}
+.sha-t-2{
+    box-shadow: 0 -2rem 2rem hsl(0 0 0 / 0.1)
+}
+.sha-t-2-5{
+    box-shadow: 0 -2.5rem 2.5rem hsl(0 0 0 / 0.1)
+}
+.sha-t-3{
+    box-shadow: 0 -3rem 3rem hsl(0 0 0 / 0.1)
 }
