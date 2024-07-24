@@ -1,10 +1,10 @@
-/* NEOCSS - | © MATÍAS GODOY | 2024.07.23 */
+/* NEOCSS - | © MATÍAS GODOY | 2024.07.24 */
 
-@layer reset, colors, measures, positions, utilities, devices;
+@layer settings, colors, measures, positions, utilities, devices;
 
 @import url("colors.css") layer(colors);
 @import url("devices.css") layer(devices);
+@import url("settings.css") layer(settings);
 @import url("measures.css") layer(measures);
 @import url("positions.css") layer(positions);
-@import url("reset.css") layer(reset);
 @import url("utilities.css") layer(utilities);
