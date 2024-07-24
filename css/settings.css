@@ -266,6 +266,13 @@
     --red-8: hsl(0 100 85);
     --red-9: hsl(0 100 90);
     --red-10: hsl(0 100 95);
+    --sha-col: hsl(0 0 0 / 0.1);
+    --sha-blur-1: 0.5rem;
+    --sha-blur-2: 1rem;
+    --sha-blur-3: 1.5rem;
+    --sha-blur-4: 2rem;
+    --sha-blur-5: 2.5rem;
+    --sha-blur-6: 3rem;
     --sky: hsl(210 100 50);
     --sky-2: hsl(210 100 55);
     --sky-3: hsl(210 100 60);
